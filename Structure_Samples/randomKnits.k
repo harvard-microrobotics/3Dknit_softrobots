@@ -1,0 +1,17681 @@
+;!knitout-2
+;;Carriers: 1 2 3 4 5 6
+;;Machine: kniterate
+in 6
+in 2
+x-stitch-number 4
+x-speed-number 200
+rack 0
+knit + f0 6
+knit + b5 6
+knit + f10 6
+knit + b15 6
+knit + f20 6
+knit + b25 6
+knit + f30 6
+knit + b35 6
+knit + f40 6
+knit - b40 6
+knit - f35 6
+knit - b30 6
+knit - f25 6
+knit - b20 6
+knit - f15 6
+knit - b10 6
+knit - f5 6
+knit - b0 6
+knit + f0 6
+knit + b5 6
+knit + f10 6
+knit + b15 6
+knit + f20 6
+knit + b25 6
+knit + f30 6
+knit + b35 6
+knit + f40 6
+knit - b40 6
+knit - f35 6
+knit - b30 6
+knit - f25 6
+knit - b20 6
+knit - f15 6
+knit - b10 6
+knit - f5 6
+knit - b0 6
+knit + f1 2
+knit + b6 2
+knit + f11 2
+knit + b16 2
+knit + f21 2
+knit + b26 2
+knit + f31 2
+knit + b36 2
+knit - f36 2
+knit - b31 2
+knit - f26 2
+knit - b21 2
+knit - f16 2
+knit - b11 2
+knit - f6 2
+knit - b1 2
+knit + f1 2
+knit + b6 2
+knit + f11 2
+knit + b16 2
+knit + f21 2
+knit + b26 2
+knit + f31 2
+knit + b36 2
+knit - f36 2
+knit - b31 2
+knit - f26 2
+knit - b21 2
+knit - f16 2
+knit - b11 2
+knit - f6 2
+knit - b1 2
+miss - f0 2
+x-speed-number 400
+rack 0
+x-roller-advance 300
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+x-stitch-number 4
+x-speed-number 400
+rack 0
+x-roller-advance 300
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+x-speed-number 100
+x-roller-advance 0
+xfer f0 b0
+xfer b1 f1
+xfer b2 f2
+xfer b3 f3
+xfer f4 b4
+xfer b5 f5
+xfer f6 b6
+xfer b7 f7
+xfer b8 f8
+xfer b9 f9
+xfer f10 b10
+xfer b11 f11
+xfer f12 b12
+xfer b13 f13
+xfer f14 b14
+xfer f15 b15
+xfer f16 b16
+xfer b17 f17
+xfer f18 b18
+xfer b19 f19
+xfer f20 b20
+xfer f21 b21
+xfer b22 f22
+xfer b23 f23
+xfer f24 b24
+xfer b25 f25
+xfer b26 f26
+xfer f27 b27
+xfer f28 b28
+xfer b29 f29
+xfer b30 f30
+xfer f31 b31
+xfer f32 b32
+xfer b33 f33
+xfer b34 f34
+xfer b35 f35
+xfer b36 f36
+xfer f37 b37
+xfer b38 f38
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 450
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + f8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + b15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + b21 2
+knit + f22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + f26 2
+knit + b27 2
+knit + b28 2
+knit + f29 2
+knit + f30 2
+knit + b31 2
+knit + b32 2
+knit + f33 2
+knit + f34 2
+knit + f35 2
+knit + f36 2
+knit + b37 2
+knit + f38 2
+knit + f39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer f3 b3
+xfer f5 b5
+xfer f9 b9
+xfer b10 f10
+xfer f13 b13
+xfer f17 b17
+xfer f19 b19
+xfer f22 b22
+xfer b24 f24
+xfer f25 b25
+xfer b28 f28
+xfer f36 b36
+xfer b37 f37
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - f37 2
+knit - b36 2
+knit - f35 2
+knit - f34 2
+knit - f33 2
+knit - b32 2
+knit - b31 2
+knit - f30 2
+knit - f29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - f23 2
+knit - b22 2
+knit - b21 2
+knit - b20 2
+knit - b19 2
+knit - b18 2
+knit - b17 2
+knit - b16 2
+knit - b15 2
+knit - b14 2
+knit - b13 2
+knit - b12 2
+knit - f11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - f7 2
+knit - b6 2
+knit - b5 2
+knit - b4 2
+knit - b3 2
+knit - b2 2
+knit - b1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer b4 f4
+xfer f8 b8
+xfer f11 b11
+xfer b14 f14
+xfer b15 f15
+xfer b19 f19
+xfer b20 f20
+xfer b21 f21
+xfer b22 f22
+xfer f23 b23
+xfer b25 f25
+xfer f26 b26
+xfer f29 b29
+xfer b32 f32
+xfer f37 b37
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 2
+knit + f1 2
+knit + b2 2
+knit + b3 2
+knit + f4 2
+knit + b5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + b11 2
+knit + b12 2
+knit + b13 2
+knit + f14 2
+knit + f15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + f19 2
+knit + f20 2
+knit + f21 2
+knit + f22 2
+knit + b23 2
+knit + f24 2
+knit + f25 2
+knit + b26 2
+knit + b27 2
+knit + f28 2
+knit + b29 2
+knit + f30 2
+knit + b31 2
+knit + f32 2
+knit + f33 2
+knit + f34 2
+knit + f35 2
+knit + b36 2
+knit + b37 2
+knit + b38 2
+knit + b39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer b3 f3
+xfer b6 f6
+xfer f7 b7
+xfer f10 b10
+xfer b11 f11
+xfer b13 f13
+xfer f14 b14
+xfer b16 f16
+xfer b17 f17
+xfer b18 f18
+xfer f22 b22
+xfer b23 f23
+xfer b26 f26
+xfer b27 f27
+xfer f28 b28
+xfer b29 f29
+xfer f30 b30
+xfer f32 b32
+xfer f33 b33
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - f39 2
+knit - b38 2
+knit - b37 2
+knit - b36 2
+knit - f35 2
+knit - f34 2
+knit - b33 2
+knit - b32 2
+knit - b31 2
+knit - b30 2
+knit - f29 2
+knit - b28 2
+knit - f27 2
+knit - f26 2
+knit - f25 2
+knit - f24 2
+knit - f23 2
+knit - b22 2
+knit - f21 2
+knit - f20 2
+knit - f19 2
+knit - f18 2
+knit - f17 2
+knit - f16 2
+knit - f15 2
+knit - b14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - b9 2
+knit - b8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - f3 2
+knit - f2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer f3 b3
+xfer b5 f5
+xfer f6 b6
+xfer b8 f8
+xfer b10 f10
+xfer b12 f12
+xfer f17 b17
+xfer f19 b19
+xfer f20 b20
+xfer b22 f22
+xfer f25 b25
+xfer f26 b26
+xfer b28 f28
+xfer f29 b29
+xfer b32 f32
+xfer b33 f33
+xfer f34 b34
+xfer b36 f36
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + b1 2
+knit + b2 2
+knit + b3 2
+knit + f4 2
+knit + f5 2
+knit + b6 2
+knit + b7 2
+knit + f8 2
+knit + b9 2
+knit + f10 2
+knit + f11 2
+knit + f12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + f16 2
+knit + b17 2
+knit + f18 2
+knit + b19 2
+knit + b20 2
+knit + f21 2
+knit + f22 2
+knit + f23 2
+knit + f24 2
+knit + b25 2
+knit + b26 2
+knit + f27 2
+knit + f28 2
+knit + b29 2
+knit + b30 2
+knit + b31 2
+knit + f32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + f36 2
+knit + b37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer b3 f3
+xfer f8 b8
+xfer f12 b12
+xfer b20 f20
+xfer f24 b24
+xfer b25 f25
+xfer b26 f26
+xfer f27 b27
+xfer f28 b28
+xfer b29 f29
+xfer f32 b32
+xfer f36 b36
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - f39 2
+knit - f38 2
+knit - b37 2
+knit - b36 2
+knit - f35 2
+knit - b34 2
+knit - f33 2
+knit - b32 2
+knit - b31 2
+knit - b30 2
+knit - f29 2
+knit - b28 2
+knit - b27 2
+knit - f26 2
+knit - f25 2
+knit - b24 2
+knit - f23 2
+knit - f22 2
+knit - f21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - f15 2
+knit - b14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - f10 2
+knit - b9 2
+knit - b8 2
+knit - b7 2
+knit - b6 2
+knit - f5 2
+knit - f4 2
+knit - f3 2
+knit - b2 2
+knit - f1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer b2 f2
+xfer f4 b4
+xfer f5 b5
+xfer b6 f6
+xfer b7 f7
+xfer b8 f8
+xfer f10 b10
+xfer f11 b11
+xfer b12 f12
+xfer f13 b13
+xfer b14 f14
+xfer f15 b15
+xfer f16 b16
+xfer b17 f17
+xfer f18 b18
+xfer b19 f19
+xfer f25 b25
+xfer f26 b26
+xfer b27 f27
+xfer f29 b29
+xfer b30 f30
+xfer b32 f32
+xfer f35 b35
+xfer b37 f37
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + b1 2
+knit + f2 2
+knit + f3 2
+knit + b4 2
+knit + b5 2
+knit + f6 2
+knit + f7 2
+knit + f8 2
+knit + b9 2
+knit + b10 2
+knit + b11 2
+knit + f12 2
+knit + b13 2
+knit + f14 2
+knit + b15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + f20 2
+knit + f21 2
+knit + f22 2
+knit + f23 2
+knit + b24 2
+knit + b25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + b29 2
+knit + f30 2
+knit + b31 2
+knit + f32 2
+knit + f33 2
+knit + b34 2
+knit + b35 2
+knit + b36 2
+knit + f37 2
+knit + f38 2
+knit + b39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f2 b2
+xfer f3 b3
+xfer b4 f4
+xfer b5 f5
+xfer b9 f9
+xfer b11 f11
+xfer f12 b12
+xfer b13 f13
+xfer f14 b14
+xfer b16 f16
+xfer b18 f18
+xfer f21 b21
+xfer f22 b22
+xfer f23 b23
+xfer f30 b30
+xfer b31 f31
+xfer f32 b32
+xfer b34 f34
+xfer b35 f35
+xfer f37 b37
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - f39 2
+knit - f38 2
+knit - b37 2
+knit - b36 2
+knit - f35 2
+knit - f34 2
+knit - f33 2
+knit - b32 2
+knit - f31 2
+knit - b30 2
+knit - b29 2
+knit - b28 2
+knit - f27 2
+knit - b26 2
+knit - b25 2
+knit - b24 2
+knit - b23 2
+knit - b22 2
+knit - b21 2
+knit - f20 2
+knit - f19 2
+knit - f18 2
+knit - f17 2
+knit - f16 2
+knit - b15 2
+knit - b14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - f8 2
+knit - f7 2
+knit - f6 2
+knit - f5 2
+knit - f4 2
+knit - b3 2
+knit - b2 2
+knit - b1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f4 b4
+xfer f6 b6
+xfer f7 b7
+xfer f8 b8
+xfer f9 b9
+xfer b10 f10
+xfer b15 f15
+xfer f16 b16
+xfer f18 b18
+xfer b21 f21
+xfer b25 f25
+xfer b26 f26
+xfer f27 b27
+xfer b28 f28
+xfer b32 f32
+xfer f34 b34
+xfer b37 f37
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + b3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + b7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + f20 2
+knit + f21 2
+knit + b22 2
+knit + b23 2
+knit + b24 2
+knit + f25 2
+knit + f26 2
+knit + b27 2
+knit + f28 2
+knit + b29 2
+knit + b30 2
+knit + f31 2
+knit + f32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer f5 b5
+xfer b7 f7
+xfer b8 f8
+xfer b14 f14
+xfer f15 b15
+xfer b16 f16
+xfer f19 b19
+xfer f20 b20
+xfer b22 f22
+xfer f25 b25
+xfer f28 b28
+xfer f33 b33
+xfer b38 f38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - f39 2
+knit - f38 2
+knit - f37 2
+knit - b36 2
+knit - f35 2
+knit - b34 2
+knit - b33 2
+knit - f32 2
+knit - f31 2
+knit - b30 2
+knit - b29 2
+knit - b28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - b24 2
+knit - b23 2
+knit - f22 2
+knit - f21 2
+knit - b20 2
+knit - b19 2
+knit - b18 2
+knit - f17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - f7 2
+knit - b6 2
+knit - b5 2
+knit - b4 2
+knit - b3 2
+knit - f2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b3 f3
+xfer b5 f5
+xfer b9 f9
+xfer f10 b10
+xfer f14 b14
+xfer f16 b16
+xfer b19 f19
+xfer f21 b21
+xfer b23 f23
+xfer b25 f25
+xfer b29 f29
+xfer b30 f30
+xfer f31 b31
+xfer f32 b32
+xfer b33 f33
+xfer b34 f34
+xfer b36 f36
+xfer f37 b37
+x-speed-number 100
+x-roller-advance 0
+x-roller-advance 0
+xfer b0 f0
+xfer f2 b2
+xfer b4 f4
+xfer b6 f6
+xfer f8 b8
+xfer f9 b9
+xfer f11 b11
+xfer b12 f12
+xfer b15 f15
+xfer f22 b22
+xfer b24 f24
+xfer f26 b26
+xfer b27 f27
+xfer b28 f28
+xfer f29 b29
+xfer b31 f31
+xfer f34 b34
+xfer f35 b35
+xfer f36 b36
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 450
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + b2 6
+knit + f3 6
+knit + f4 6
+knit + f5 6
+knit + f6 6
+knit + f7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + f13 6
+knit + b14 6
+knit + f15 6
+knit + b16 6
+knit + f17 6
+knit + b18 6
+knit + f19 6
+knit + b20 6
+knit + b21 6
+knit + b22 6
+knit + f23 6
+knit + f24 6
+knit + f25 6
+knit + b26 6
+knit + f27 6
+knit + f28 6
+knit + b29 6
+knit + f30 6
+knit + f31 6
+knit + b32 6
+knit + f33 6
+knit + b34 6
+knit + b35 6
+knit + b36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b8 f8
+xfer b10 f10
+xfer b11 f11
+xfer f12 b12
+xfer f15 b15
+xfer f17 b17
+xfer b20 f20
+xfer b21 f21
+xfer f23 b23
+xfer b26 f26
+xfer b32 f32
+xfer f33 b33
+xfer b34 f34
+xfer b36 f36
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - f36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - f28 6
+knit - f27 6
+knit - f26 6
+knit - f25 6
+knit - f24 6
+knit - b23 6
+knit - b22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - b18 6
+knit - b17 6
+knit - b16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - b9 6
+knit - f8 6
+knit - f7 6
+knit - f6 6
+knit - f5 6
+knit - f4 6
+knit - f3 6
+knit - b2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f3 b3
+xfer f6 b6
+xfer b9 f9
+xfer f11 b11
+xfer b12 f12
+xfer f13 b13
+xfer b14 f14
+xfer b15 f15
+xfer b16 f16
+xfer b22 f22
+xfer b23 f23
+xfer f24 b24
+xfer f27 b27
+xfer f28 b28
+xfer b29 f29
+xfer f30 b30
+xfer f31 b31
+xfer f34 b34
+xfer b37 f37
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + f1 6
+knit + b2 6
+knit + b3 6
+knit + f4 6
+knit + f5 6
+knit + b6 6
+knit + f7 6
+knit + f8 6
+knit + f9 6
+knit + f10 6
+knit + b11 6
+knit + f12 6
+knit + b13 6
+knit + f14 6
+knit + f15 6
+knit + f16 6
+knit + b17 6
+knit + b18 6
+knit + f19 6
+knit + f20 6
+knit + f21 6
+knit + f22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + f26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + b33 6
+knit + b34 6
+knit + b35 6
+knit + f36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f4 b4
+xfer f5 b5
+xfer b6 f6
+xfer f7 b7
+xfer f8 b8
+xfer b11 f11
+xfer b13 f13
+xfer f14 b14
+xfer f15 b15
+xfer f16 b16
+xfer b18 f18
+xfer f25 b25
+xfer f26 b26
+xfer b27 f27
+xfer b28 f28
+xfer f29 b29
+xfer b30 f30
+xfer b31 f31
+xfer b33 f33
+xfer b35 f35
+xfer f36 b36
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - f37 6
+knit - b36 6
+knit - f35 6
+knit - b34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - f28 6
+knit - f27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - f23 6
+knit - f22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - f18 6
+knit - b17 6
+knit - b16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - f12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - b8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b2 f2
+xfer b3 f3
+xfer f6 b6
+xfer b7 f7
+xfer f10 b10
+xfer f13 b13
+xfer b14 f14
+xfer b17 f17
+xfer b24 f24
+xfer b25 f25
+xfer f27 b27
+xfer b29 f29
+xfer f30 b30
+xfer f33 b33
+xfer b34 f34
+xfer f35 b35
+xfer f37 b37
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + f3 6
+knit + b4 6
+knit + b5 6
+knit + b6 6
+knit + f7 6
+knit + b8 6
+knit + f9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + b13 6
+knit + f14 6
+knit + b15 6
+knit + b16 6
+knit + f17 6
+knit + f18 6
+knit + f19 6
+knit + f20 6
+knit + f21 6
+knit + f22 6
+knit + f23 6
+knit + f24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + f31 6
+knit + f32 6
+knit + b33 6
+knit + f34 6
+knit + b35 6
+knit + b36 6
+knit + b37 6
+knit + f38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b1 f1
+xfer f3 b3
+xfer b6 f6
+xfer f9 b9
+xfer b10 f10
+xfer f14 b14
+xfer b16 f16
+xfer f18 b18
+xfer f19 b19
+xfer f22 b22
+xfer f24 b24
+xfer b26 f26
+xfer f28 b28
+xfer f29 b29
+xfer b30 f30
+xfer b37 f37
+xfer f38 b38
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - b38 6
+knit - f37 6
+knit - b36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - b27 6
+knit - f26 6
+knit - f25 6
+knit - b24 6
+knit - f23 6
+knit - b22 6
+knit - f21 6
+knit - f20 6
+knit - b19 6
+knit - b18 6
+knit - f17 6
+knit - f16 6
+knit - b15 6
+knit - b14 6
+knit - b13 6
+knit - f12 6
+knit - f11 6
+knit - f10 6
+knit - b9 6
+knit - b8 6
+knit - f7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - b3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer b3 f3
+xfer b4 f4
+xfer b5 f5
+xfer f7 b7
+xfer b8 f8
+xfer f12 b12
+xfer b15 f15
+xfer f16 b16
+xfer f17 b17
+xfer b19 f19
+xfer f21 b21
+xfer f26 b26
+xfer f31 b31
+xfer f32 b32
+xfer f34 b34
+xfer b35 f35
+xfer b36 f36
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + f4 6
+knit + f5 6
+knit + f6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + f10 6
+knit + f11 6
+knit + b12 6
+knit + b13 6
+knit + b14 6
+knit + f15 6
+knit + b16 6
+knit + b17 6
+knit + b18 6
+knit + f19 6
+knit + f20 6
+knit + b21 6
+knit + b22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + b28 6
+knit + b29 6
+knit + f30 6
+knit + b31 6
+knit + b32 6
+knit + b33 6
+knit + b34 6
+knit + f35 6
+knit + f36 6
+knit + f37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b2 f2
+xfer f6 b6
+xfer b7 f7
+xfer f10 b10
+xfer f11 b11
+xfer b13 f13
+xfer b17 f17
+xfer b22 f22
+xfer f25 b25
+xfer b26 f26
+xfer b32 f32
+xfer f35 b35
+xfer f36 b36
+xfer f37 b37
+xfer b38 f38
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - b34 6
+knit - b33 6
+knit - f32 6
+knit - b31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - b27 6
+knit - f26 6
+knit - b25 6
+knit - b24 6
+knit - f23 6
+knit - f22 6
+knit - b21 6
+knit - f20 6
+knit - f19 6
+knit - b18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - b11 6
+knit - b10 6
+knit - b9 6
+knit - f8 6
+knit - f7 6
+knit - b6 6
+knit - f5 6
+knit - f4 6
+knit - f3 6
+knit - f2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f2 b2
+xfer f5 b5
+xfer f8 b8
+xfer b12 f12
+xfer b14 f14
+xfer f15 b15
+xfer b16 f16
+xfer f17 b17
+xfer b18 f18
+xfer f23 b23
+xfer b24 f24
+xfer f26 b26
+xfer b27 f27
+xfer f32 b32
+xfer b37 f37
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + f7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + f13 6
+knit + f14 6
+knit + b15 6
+knit + f16 6
+knit + b17 6
+knit + f18 6
+knit + f19 6
+knit + f20 6
+knit + b21 6
+knit + f22 6
+knit + b23 6
+knit + f24 6
+knit + b25 6
+knit + b26 6
+knit + f27 6
+knit + b28 6
+knit + b29 6
+knit + f30 6
+knit + b31 6
+knit + b32 6
+knit + b33 6
+knit + b34 6
+knit + b35 6
+knit + b36 6
+knit + f37 6
+knit + f38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f7 b7
+xfer b8 f8
+xfer b9 f9
+xfer b10 f10
+xfer f12 b12
+xfer f14 b14
+xfer b15 f15
+xfer f19 b19
+xfer f22 b22
+xfer f24 b24
+xfer b25 f25
+xfer b28 f28
+xfer b32 f32
+xfer b33 f33
+xfer b34 f34
+xfer b36 f36
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - b35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - b31 6
+knit - f30 6
+knit - b29 6
+knit - f28 6
+knit - f27 6
+knit - b26 6
+knit - f25 6
+knit - b24 6
+knit - b23 6
+knit - b22 6
+knit - b21 6
+knit - f20 6
+knit - b19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - f15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - b11 6
+knit - f10 6
+knit - f9 6
+knit - f8 6
+knit - b7 6
+knit - b6 6
+knit - b5 6
+knit - f4 6
+knit - f3 6
+knit - b2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer f3 b3
+xfer b5 f5
+xfer b6 f6
+xfer f8 b8
+xfer b11 f11
+xfer b12 f12
+xfer f13 b13
+xfer f15 b15
+xfer b19 f19
+xfer f20 b20
+xfer b21 f21
+xfer f25 b25
+xfer f27 b27
+xfer f28 b28
+xfer f30 b30
+xfer b31 f31
+xfer f32 b32
+xfer f36 b36
+xfer f37 b37
+xfer f38 b38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + b2 6
+knit + b3 6
+knit + f4 6
+knit + f5 6
+knit + f6 6
+knit + b7 6
+knit + b8 6
+knit + f9 6
+knit + f10 6
+knit + f11 6
+knit + f12 6
+knit + b13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + b17 6
+knit + f18 6
+knit + f19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + b25 6
+knit + b26 6
+knit + b27 6
+knit + b28 6
+knit + b29 6
+knit + b30 6
+knit + f31 6
+knit + b32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + b36 6
+knit + b37 6
+knit + b38 6
+knit + b39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer b3 f3
+xfer f4 b4
+xfer f6 b6
+xfer b7 f7
+xfer b8 f8
+xfer f10 b10
+xfer f11 b11
+xfer b13 f13
+xfer b14 f14
+xfer b15 f15
+xfer f18 b18
+xfer f19 b19
+xfer b20 f20
+xfer b22 f22
+xfer b23 f23
+xfer b25 f25
+xfer b26 f26
+xfer b27 f27
+xfer b29 f29
+xfer b30 f30
+xfer f33 b33
+xfer b35 f35
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - f35 6
+knit - f34 6
+knit - b33 6
+knit - b32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - b28 6
+knit - f27 6
+knit - f26 6
+knit - f25 6
+knit - b24 6
+knit - f23 6
+knit - f22 6
+knit - f21 6
+knit - f20 6
+knit - b19 6
+knit - b18 6
+knit - b17 6
+knit - f16 6
+knit - f15 6
+knit - f14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - f8 6
+knit - f7 6
+knit - b6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - f2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f3 b3
+xfer b4 f4
+xfer f7 b7
+xfer f8 b8
+xfer f9 b9
+xfer f15 b15
+xfer f16 b16
+xfer b17 f17
+xfer b18 f18
+xfer f20 b20
+xfer f21 b21
+xfer b28 f28
+xfer f29 b29
+xfer f30 b30
+xfer b37 f37
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + f1 6
+knit + f2 6
+knit + b3 6
+knit + f4 6
+knit + f5 6
+knit + b6 6
+knit + b7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + f13 6
+knit + f14 6
+knit + b15 6
+knit + b16 6
+knit + f17 6
+knit + f18 6
+knit + b19 6
+knit + b20 6
+knit + b21 6
+knit + f22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + f26 6
+knit + f27 6
+knit + f28 6
+knit + b29 6
+knit + b30 6
+knit + f31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + f35 6
+knit + b36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer b3 f3
+xfer f4 b4
+xfer f5 b5
+xfer b10 f10
+xfer b11 f11
+xfer f12 b12
+xfer f14 b14
+xfer b16 f16
+xfer b19 f19
+xfer b21 f21
+xfer f23 b23
+xfer b24 f24
+xfer f28 b28
+xfer b30 f30
+xfer b32 f32
+xfer f34 b34
+xfer f35 b35
+xfer f37 b37
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - b34 6
+knit - b33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - f26 6
+knit - f25 6
+knit - f24 6
+knit - b23 6
+knit - f22 6
+knit - f21 6
+knit - b20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - f16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - b9 6
+knit - b8 6
+knit - b7 6
+knit - b6 6
+knit - b5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer b2 f2
+xfer f3 b3
+xfer b4 f4
+xfer b5 f5
+xfer b8 f8
+xfer f10 b10
+xfer f11 b11
+xfer f17 b17
+xfer f22 b22
+xfer f24 b24
+xfer f25 b25
+xfer f27 b27
+xfer b28 f28
+xfer b29 f29
+xfer f30 b30
+xfer f31 b31
+xfer f32 b32
+xfer b33 f33
+xfer b35 f35
+xfer b36 f36
+xfer b37 f37
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + f2 6
+knit + b3 6
+knit + f4 6
+knit + f5 6
+knit + b6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + b17 6
+knit + f18 6
+knit + f19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + b25 6
+knit + f26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + f33 6
+knit + b34 6
+knit + f35 6
+knit + f36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer f2 b2
+xfer b7 f7
+xfer b11 f11
+xfer b17 f17
+xfer f18 b18
+xfer b20 f20
+xfer f21 b21
+xfer b22 f22
+xfer b23 f23
+xfer b24 f24
+xfer f29 b29
+xfer b30 f30
+xfer b31 f31
+xfer f33 b33
+xfer b34 f34
+xfer f35 b35
+xfer f36 b36
+xfer f38 b38
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - b38 6
+knit - f37 6
+knit - b36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - b32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - f28 6
+knit - b27 6
+knit - f26 6
+knit - b25 6
+knit - f24 6
+knit - f23 6
+knit - f22 6
+knit - b21 6
+knit - f20 6
+knit - f19 6
+knit - b18 6
+knit - f17 6
+knit - f16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - f11 6
+knit - b10 6
+knit - b9 6
+knit - f8 6
+knit - f7 6
+knit - b6 6
+knit - f5 6
+knit - f4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer f7 b7
+xfer f8 b8
+xfer b9 f9
+xfer b12 f12
+xfer b14 f14
+xfer f16 b16
+xfer f17 b17
+xfer f20 b20
+xfer f22 b22
+xfer f24 b24
+xfer b27 f27
+xfer f31 b31
+xfer b32 f32
+xfer b33 f33
+xfer f34 b34
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + b2 6
+knit + b3 6
+knit + f4 6
+knit + f5 6
+knit + b6 6
+knit + b7 6
+knit + b8 6
+knit + f9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + f13 6
+knit + f14 6
+knit + b15 6
+knit + b16 6
+knit + b17 6
+knit + b18 6
+knit + f19 6
+knit + b20 6
+knit + b21 6
+knit + b22 6
+knit + f23 6
+knit + b24 6
+knit + b25 6
+knit + f26 6
+knit + f27 6
+knit + f28 6
+knit + b29 6
+knit + f30 6
+knit + b31 6
+knit + f32 6
+knit + f33 6
+knit + b34 6
+knit + b35 6
+knit + b36 6
+knit + f37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer b2 f2
+xfer b3 f3
+xfer f4 b4
+xfer b6 f6
+xfer f9 b9
+xfer b10 f10
+xfer f11 b11
+xfer b15 f15
+xfer b16 f16
+xfer b17 f17
+xfer b18 f18
+xfer b20 f20
+xfer b21 f21
+xfer b22 f22
+xfer f23 b23
+xfer b24 f24
+xfer b29 f29
+xfer b31 f31
+xfer f33 b33
+xfer b34 f34
+xfer f37 b37
+xfer b38 f38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - f28 6
+knit - f27 6
+knit - f26 6
+knit - b25 6
+knit - f24 6
+knit - b23 6
+knit - f22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - f16 6
+knit - f15 6
+knit - f14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - f10 6
+knit - b9 6
+knit - b8 6
+knit - b7 6
+knit - f6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - f2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f3 b3
+xfer b4 f4
+xfer f6 b6
+xfer b8 f8
+xfer f12 b12
+xfer f16 b16
+xfer f17 b17
+xfer f19 b19
+xfer f22 b22
+xfer f26 b26
+xfer f27 b27
+xfer f28 b28
+xfer f30 b30
+xfer f31 b31
+xfer f32 b32
+xfer b33 f33
+xfer f34 b34
+xfer b37 f37
+xfer f38 b38
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + f1 6
+knit + f2 6
+knit + b3 6
+knit + f4 6
+knit + f5 6
+knit + b6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + f10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + b16 6
+knit + b17 6
+knit + f18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + f24 6
+knit + b25 6
+knit + b26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + f33 6
+knit + b34 6
+knit + b35 6
+knit + b36 6
+knit + f37 6
+knit + b38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer f2 b2
+xfer f4 b4
+xfer f8 b8
+xfer b9 f9
+xfer f18 b18
+xfer b19 f19
+xfer f20 b20
+xfer f21 b21
+xfer b23 f23
+xfer b25 f25
+xfer b26 f26
+xfer b27 f27
+xfer f29 b29
+xfer b31 f31
+xfer b38 f38
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - f38 6
+knit - f37 6
+knit - b36 6
+knit - b35 6
+knit - b34 6
+knit - f33 6
+knit - b32 6
+knit - f31 6
+knit - b30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - f26 6
+knit - f25 6
+knit - f24 6
+knit - f23 6
+knit - b22 6
+knit - b21 6
+knit - b20 6
+knit - f19 6
+knit - b18 6
+knit - b17 6
+knit - b16 6
+knit - f15 6
+knit - f14 6
+knit - f13 6
+knit - b12 6
+knit - b11 6
+knit - f10 6
+knit - f9 6
+knit - b8 6
+knit - b7 6
+knit - b6 6
+knit - f5 6
+knit - b4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b4 f4
+xfer f5 b5
+xfer b7 f7
+xfer b8 f8
+xfer f9 b9
+xfer f14 b14
+xfer f15 b15
+xfer b17 f17
+xfer b18 f18
+xfer b21 f21
+xfer f23 b23
+xfer f24 b24
+xfer f25 b25
+xfer f27 b27
+xfer b28 f28
+xfer b30 f30
+xfer f31 b31
+xfer b34 f34
+xfer b35 f35
+xfer b36 f36
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + b2 6
+knit + b3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + f7 6
+knit + f8 6
+knit + b9 6
+knit + f10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + b14 6
+knit + b15 6
+knit + b16 6
+knit + f17 6
+knit + f18 6
+knit + f19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + b25 6
+knit + f26 6
+knit + b27 6
+knit + f28 6
+knit + b29 6
+knit + f30 6
+knit + b31 6
+knit + b32 6
+knit + f33 6
+knit + f34 6
+knit + f35 6
+knit + f36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f7 b7
+xfer b9 f9
+xfer b11 f11
+xfer f13 b13
+xfer b14 f14
+xfer b15 f15
+xfer b16 f16
+xfer f17 b17
+xfer f19 b19
+xfer b22 f22
+xfer b23 f23
+xfer b24 f24
+xfer b25 f25
+xfer f26 b26
+xfer b27 f27
+xfer f30 b30
+xfer b32 f32
+xfer f33 b33
+xfer f35 b35
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - f32 6
+knit - b31 6
+knit - b30 6
+knit - b29 6
+knit - f28 6
+knit - f27 6
+knit - b26 6
+knit - f25 6
+knit - f24 6
+knit - f23 6
+knit - f22 6
+knit - f21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - f15 6
+knit - f14 6
+knit - b13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - f8 6
+knit - b7 6
+knit - b6 6
+knit - b5 6
+knit - f4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b7 f7
+xfer f8 b8
+xfer f9 b9
+xfer f10 b10
+xfer b12 f12
+xfer b13 f13
+xfer f14 b14
+xfer f15 b15
+xfer f16 b16
+xfer b17 f17
+xfer f18 b18
+xfer f22 b22
+xfer f23 b23
+xfer f25 b25
+xfer f28 b28
+xfer b29 f29
+xfer f32 b32
+xfer b33 f33
+xfer b35 f35
+xfer f37 b37
+xfer f38 b38
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + b2 6
+knit + b3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + f7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + f13 6
+knit + b14 6
+knit + b15 6
+knit + b16 6
+knit + f17 6
+knit + b18 6
+knit + b19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + f24 6
+knit + b25 6
+knit + b26 6
+knit + f27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + f33 6
+knit + f34 6
+knit + f35 6
+knit + f36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer b6 f6
+xfer f7 b7
+xfer b8 f8
+xfer b9 f9
+xfer f13 b13
+xfer b14 f14
+xfer b15 f15
+xfer b16 f16
+xfer b19 f19
+xfer b20 f20
+xfer b26 f26
+xfer f27 b27
+xfer b31 f31
+xfer b32 f32
+xfer f34 b34
+xfer f35 b35
+xfer b37 f37
+xfer b38 f38
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - b35 6
+knit - b34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - b30 6
+knit - f29 6
+knit - b28 6
+knit - b27 6
+knit - f26 6
+knit - b25 6
+knit - f24 6
+knit - b23 6
+knit - b22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - b18 6
+knit - f17 6
+knit - f16 6
+knit - f15 6
+knit - f14 6
+knit - b13 6
+knit - f12 6
+knit - f11 6
+knit - b10 6
+knit - f9 6
+knit - f8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - f4 6
+knit - b3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b5 f5
+xfer f6 b6
+xfer f8 b8
+xfer f14 b14
+xfer f17 b17
+xfer f21 b21
+xfer f24 b24
+xfer f26 b26
+xfer f32 b32
+xfer f33 b33
+xfer b34 f34
+xfer f36 b36
+xfer f37 b37
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + f2 6
+knit + b3 6
+knit + f4 6
+knit + f5 6
+knit + b6 6
+knit + b7 6
+knit + b8 6
+knit + f9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + b13 6
+knit + b14 6
+knit + f15 6
+knit + f16 6
+knit + b17 6
+knit + b18 6
+knit + f19 6
+knit + f20 6
+knit + b21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + b25 6
+knit + b26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + f31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + b35 6
+knit + b36 6
+knit + b37 6
+knit + f38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer f2 b2
+xfer b6 f6
+xfer b8 f8
+xfer f9 b9
+xfer b10 f10
+xfer f12 b12
+xfer b13 f13
+xfer b14 f14
+xfer f20 b20
+xfer b23 f23
+xfer b24 f24
+xfer b26 f26
+xfer b27 f27
+xfer f29 b29
+xfer b32 f32
+xfer b33 f33
+xfer b35 f35
+xfer b36 f36
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - b30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - f26 6
+knit - b25 6
+knit - f24 6
+knit - f23 6
+knit - b22 6
+knit - b21 6
+knit - b20 6
+knit - f19 6
+knit - b18 6
+knit - b17 6
+knit - f16 6
+knit - f15 6
+knit - f14 6
+knit - f13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - b9 6
+knit - f8 6
+knit - b7 6
+knit - f6 6
+knit - f5 6
+knit - f4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer b2 f2
+xfer f5 b5
+xfer f6 b6
+xfer f10 b10
+xfer b12 f12
+xfer f16 b16
+xfer f23 b23
+xfer f24 b24
+xfer b25 f25
+xfer f26 b26
+xfer f27 b27
+xfer b29 f29
+xfer f31 b31
+xfer f32 b32
+xfer f34 b34
+xfer f36 b36
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + f2 6
+knit + b3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + b16 6
+knit + b17 6
+knit + b18 6
+knit + f19 6
+knit + b20 6
+knit + b21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + f33 6
+knit + b34 6
+knit + f35 6
+knit + b36 6
+knit + b37 6
+knit + f38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b3 f3
+xfer f4 b4
+xfer b6 f6
+xfer b7 f7
+xfer f8 b8
+xfer b10 f10
+xfer f12 b12
+xfer f13 b13
+xfer f14 b14
+xfer f15 b15
+xfer b16 f16
+xfer b20 f20
+xfer b22 f22
+xfer f25 b25
+xfer b26 f26
+xfer b27 f27
+xfer b28 f28
+xfer b30 f30
+xfer b31 f31
+xfer b32 f32
+xfer f33 b33
+xfer f35 b35
+xfer f38 b38
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - b38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - b34 6
+knit - b33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - f28 6
+knit - f27 6
+knit - f26 6
+knit - b25 6
+knit - b24 6
+knit - b23 6
+knit - f22 6
+knit - b21 6
+knit - f20 6
+knit - f19 6
+knit - b18 6
+knit - b17 6
+knit - f16 6
+knit - b15 6
+knit - b14 6
+knit - b13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - b9 6
+knit - b8 6
+knit - f7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - f3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b4 f4
+xfer f6 b6
+xfer f7 b7
+xfer f11 b11
+xfer b13 f13
+xfer f16 b16
+xfer f19 b19
+xfer f20 b20
+xfer b21 f21
+xfer f22 b22
+xfer f26 b26
+xfer f30 b30
+xfer f31 b31
+xfer b34 f34
+xfer b35 f35
+xfer b36 f36
+xfer b37 f37
+xfer b38 f38
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + f2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + b7 6
+knit + b8 6
+knit + b9 6
+knit + f10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + b14 6
+knit + b15 6
+knit + b16 6
+knit + b17 6
+knit + b18 6
+knit + b19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + b25 6
+knit + b26 6
+knit + f27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + b33 6
+knit + f34 6
+knit + f35 6
+knit + f36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer f2 b2
+xfer f3 b3
+xfer f4 b4
+xfer b6 f6
+xfer b7 f7
+xfer b9 f9
+xfer f10 b10
+xfer b12 f12
+xfer b15 f15
+xfer b17 f17
+xfer b19 f19
+xfer f21 b21
+xfer f27 b27
+xfer f29 b29
+xfer b30 f30
+xfer b33 f33
+xfer f36 b36
+xfer f37 b37
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - f35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - b31 6
+knit - f30 6
+knit - b29 6
+knit - f28 6
+knit - b27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - b23 6
+knit - b22 6
+knit - b21 6
+knit - b20 6
+knit - f19 6
+knit - b18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - b14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - b8 6
+knit - f7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer b5 f5
+xfer f6 b6
+xfer b8 f8
+xfer f9 b9
+xfer b10 f10
+xfer b11 f11
+xfer f13 b13
+xfer b14 f14
+xfer f17 b17
+xfer b18 f18
+xfer f19 b19
+xfer b20 f20
+xfer b21 f21
+xfer b22 f22
+xfer b23 f23
+xfer b26 f26
+xfer b31 f31
+xfer f32 b32
+xfer f33 b33
+xfer f34 b34
+xfer f35 b35
+xfer f38 b38
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + f2 6
+knit + b3 6
+knit + b4 6
+knit + f5 6
+knit + b6 6
+knit + f7 6
+knit + f8 6
+knit + b9 6
+knit + f10 6
+knit + f11 6
+knit + f12 6
+knit + b13 6
+knit + f14 6
+knit + f15 6
+knit + b16 6
+knit + b17 6
+knit + f18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + f22 6
+knit + f23 6
+knit + b24 6
+knit + b25 6
+knit + f26 6
+knit + b27 6
+knit + f28 6
+knit + b29 6
+knit + f30 6
+knit + f31 6
+knit + b32 6
+knit + b33 6
+knit + b34 6
+knit + b35 6
+knit + b36 6
+knit + b37 6
+knit + b38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f2 b2
+xfer b3 f3
+xfer f5 b5
+xfer b6 f6
+xfer f7 b7
+xfer f8 b8
+xfer f11 b11
+xfer b13 f13
+xfer f14 b14
+xfer b17 f17
+xfer f22 b22
+xfer b25 f25
+xfer f26 b26
+xfer f28 b28
+xfer f30 b30
+xfer f31 b31
+xfer b32 f32
+xfer b33 f33
+xfer b34 f34
+xfer b35 f35
+xfer b36 f36
+xfer b37 f37
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - b31 6
+knit - b30 6
+knit - b29 6
+knit - b28 6
+knit - b27 6
+knit - b26 6
+knit - f25 6
+knit - b24 6
+knit - f23 6
+knit - b22 6
+knit - f21 6
+knit - f20 6
+knit - b19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - b14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - f10 6
+knit - b9 6
+knit - b8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f6 b6
+xfer b11 f11
+xfer b14 f14
+xfer f17 b17
+xfer f18 b18
+xfer b19 f19
+xfer f21 b21
+xfer b22 f22
+xfer f23 b23
+xfer b27 f27
+xfer b30 f30
+xfer b31 f31
+xfer f33 b33
+xfer f35 b35
+xfer f36 b36
+xfer f38 b38
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + b4 6
+knit + b5 6
+knit + b6 6
+knit + b7 6
+knit + b8 6
+knit + b9 6
+knit + f10 6
+knit + f11 6
+knit + f12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + b16 6
+knit + b17 6
+knit + b18 6
+knit + f19 6
+knit + f20 6
+knit + b21 6
+knit + f22 6
+knit + b23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + f27 6
+knit + b28 6
+knit + b29 6
+knit + f30 6
+knit + f31 6
+knit + f32 6
+knit + b33 6
+knit + f34 6
+knit + b35 6
+knit + b36 6
+knit + f37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b2 f2
+xfer b6 f6
+xfer b8 f8
+xfer b9 f9
+xfer f10 b10
+xfer f11 b11
+xfer b17 f17
+xfer f19 b19
+xfer f20 b20
+xfer b24 f24
+xfer b26 f26
+xfer b28 f28
+xfer b29 f29
+xfer f30 b30
+xfer f31 b31
+xfer f32 b32
+xfer f34 b34
+xfer b35 f35
+xfer f37 b37
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - b38 6
+knit - b37 6
+knit - b36 6
+knit - f35 6
+knit - b34 6
+knit - b33 6
+knit - b32 6
+knit - b31 6
+knit - b30 6
+knit - f29 6
+knit - f28 6
+knit - f27 6
+knit - f26 6
+knit - f25 6
+knit - f24 6
+knit - b23 6
+knit - f22 6
+knit - b21 6
+knit - b20 6
+knit - b19 6
+knit - b18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - f14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - f8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - f3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f3 b3
+xfer b4 f4
+xfer b5 f5
+xfer b7 f7
+xfer f9 b9
+xfer b11 f11
+xfer f12 b12
+xfer f13 b13
+xfer f14 b14
+xfer f15 b15
+xfer b16 f16
+xfer b19 f19
+xfer b21 f21
+xfer f22 b22
+xfer b23 f23
+xfer f24 b24
+xfer f25 b25
+xfer f27 b27
+xfer f28 b28
+xfer b33 f33
+xfer b34 f34
+xfer f35 b35
+xfer b37 f37
+xfer b38 f38
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + f2 6
+knit + b3 6
+knit + f4 6
+knit + f5 6
+knit + f6 6
+knit + f7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + b12 6
+knit + b13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + f17 6
+knit + b18 6
+knit + f19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + f23 6
+knit + b24 6
+knit + b25 6
+knit + f26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + b36 6
+knit + f37 6
+knit + f38 6
+knit + b39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer b3 f3
+xfer f4 b4
+xfer f6 b6
+xfer f8 b8
+xfer b10 f10
+xfer f11 b11
+xfer f16 b16
+xfer f17 b17
+xfer b18 f18
+xfer b20 f20
+xfer f21 b21
+xfer b22 f22
+xfer b25 f25
+xfer b30 f30
+xfer b35 f35
+xfer b36 f36
+xfer f37 b37
+xfer f38 b38
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - b38 6
+knit - b37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - f33 6
+knit - b32 6
+knit - b31 6
+knit - f30 6
+knit - f29 6
+knit - b28 6
+knit - b27 6
+knit - f26 6
+knit - f25 6
+knit - b24 6
+knit - f23 6
+knit - f22 6
+knit - b21 6
+knit - f20 6
+knit - f19 6
+knit - f18 6
+knit - b17 6
+knit - b16 6
+knit - b15 6
+knit - b14 6
+knit - b13 6
+knit - b12 6
+knit - b11 6
+knit - f10 6
+knit - b9 6
+knit - b8 6
+knit - f7 6
+knit - b6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b4 f4
+xfer f5 b5
+xfer f7 b7
+xfer b9 f9
+xfer f10 b10
+xfer b14 f14
+xfer b15 f15
+xfer b17 f17
+xfer f19 b19
+xfer f20 b20
+xfer b21 f21
+xfer f22 b22
+xfer b24 f24
+xfer f25 b25
+xfer b27 f27
+xfer b28 f28
+xfer f29 b29
+xfer f30 b30
+xfer b31 f31
+xfer b32 f32
+xfer f35 b35
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + b7 6
+knit + b8 6
+knit + f9 6
+knit + b10 6
+knit + b11 6
+knit + b12 6
+knit + b13 6
+knit + f14 6
+knit + f15 6
+knit + b16 6
+knit + f17 6
+knit + f18 6
+knit + b19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + f23 6
+knit + f24 6
+knit + b25 6
+knit + f26 6
+knit + f27 6
+knit + f28 6
+knit + b29 6
+knit + b30 6
+knit + f31 6
+knit + f32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + f36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b2 f2
+xfer f4 b4
+xfer b5 f5
+xfer b6 f6
+xfer b7 f7
+xfer b10 f10
+xfer b11 f11
+xfer b16 f16
+xfer f18 b18
+xfer b20 f20
+xfer f21 b21
+xfer f24 b24
+xfer f28 b28
+xfer b30 f30
+xfer f34 b34
+xfer b35 f35
+xfer f36 b36
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - b38 6
+knit - b37 6
+knit - b36 6
+knit - f35 6
+knit - b34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - f26 6
+knit - b25 6
+knit - b24 6
+knit - f23 6
+knit - b22 6
+knit - b21 6
+knit - f20 6
+knit - b19 6
+knit - b18 6
+knit - f17 6
+knit - f16 6
+knit - f15 6
+knit - f14 6
+knit - b13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - b8 6
+knit - f7 6
+knit - f6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - f2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f3 b3
+xfer b4 f4
+xfer f6 b6
+xfer b8 f8
+xfer f9 b9
+xfer f10 b10
+xfer f15 b15
+xfer f16 b16
+xfer b18 f18
+xfer b22 f22
+xfer f27 b27
+xfer b29 f29
+xfer f31 b31
+xfer f32 b32
+xfer f33 b33
+xfer b34 f34
+xfer b37 f37
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + b3 6
+knit + f4 6
+knit + f5 6
+knit + b6 6
+knit + f7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + b12 6
+knit + b13 6
+knit + f14 6
+knit + b15 6
+knit + b16 6
+knit + f17 6
+knit + f18 6
+knit + b19 6
+knit + f20 6
+knit + b21 6
+knit + f22 6
+knit + f23 6
+knit + b24 6
+knit + b25 6
+knit + f26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + f30 6
+knit + b31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + f35 6
+knit + b36 6
+knit + f37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b1 f1
+xfer b3 f3
+xfer f4 b4
+xfer b6 f6
+xfer f8 b8
+xfer b9 f9
+xfer b10 f10
+xfer b12 f12
+xfer b13 f13
+xfer b16 f16
+xfer f17 b17
+xfer f18 b18
+xfer f20 b20
+xfer b21 f21
+xfer f22 b22
+xfer f23 b23
+xfer b31 f31
+xfer b32 f32
+xfer b33 f33
+xfer f35 b35
+xfer f37 b37
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - b38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - b28 6
+knit - b27 6
+knit - f26 6
+knit - b25 6
+knit - b24 6
+knit - b23 6
+knit - b22 6
+knit - f21 6
+knit - b20 6
+knit - b19 6
+knit - b18 6
+knit - b17 6
+knit - f16 6
+knit - b15 6
+knit - f14 6
+knit - f13 6
+knit - f12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - b8 6
+knit - f7 6
+knit - f6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f2 b2
+xfer b4 f4
+xfer f9 b9
+xfer f10 b10
+xfer f11 b11
+xfer f14 b14
+xfer b15 f15
+xfer f16 b16
+xfer b17 f17
+xfer b19 f19
+xfer f21 b21
+xfer b23 f23
+xfer b24 f24
+xfer b25 f25
+xfer f26 b26
+xfer b27 f27
+xfer b28 f28
+xfer f29 b29
+xfer f32 b32
+xfer f34 b34
+x-speed-number 100
+x-roller-advance 0
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer f4 b4
+xfer f6 b6
+xfer b8 f8
+xfer b9 f9
+xfer b11 f11
+xfer f12 b12
+xfer f15 b15
+xfer b22 f22
+xfer f24 b24
+xfer b26 f26
+xfer f27 b27
+xfer f28 b28
+xfer b29 f29
+xfer f31 b31
+xfer b34 f34
+xfer b35 f35
+xfer b36 f36
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 450
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + f8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + b15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + b21 2
+knit + f22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + f26 2
+knit + b27 2
+knit + b28 2
+knit + f29 2
+knit + f30 2
+knit + b31 2
+knit + b32 2
+knit + f33 2
+knit + f34 2
+knit + f35 2
+knit + f36 2
+knit + b37 2
+knit + f38 2
+knit + f39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer f3 b3
+xfer f5 b5
+xfer f9 b9
+xfer b10 f10
+xfer f13 b13
+xfer f17 b17
+xfer f19 b19
+xfer f22 b22
+xfer b24 f24
+xfer f25 b25
+xfer b28 f28
+xfer f36 b36
+xfer b37 f37
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - f37 2
+knit - b36 2
+knit - f35 2
+knit - f34 2
+knit - f33 2
+knit - b32 2
+knit - b31 2
+knit - f30 2
+knit - f29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - f23 2
+knit - b22 2
+knit - b21 2
+knit - b20 2
+knit - b19 2
+knit - b18 2
+knit - b17 2
+knit - b16 2
+knit - b15 2
+knit - b14 2
+knit - b13 2
+knit - b12 2
+knit - f11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - f7 2
+knit - b6 2
+knit - b5 2
+knit - b4 2
+knit - b3 2
+knit - b2 2
+knit - b1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer b4 f4
+xfer f8 b8
+xfer f11 b11
+xfer b14 f14
+xfer b15 f15
+xfer b19 f19
+xfer b20 f20
+xfer b21 f21
+xfer b22 f22
+xfer f23 b23
+xfer b25 f25
+xfer f26 b26
+xfer f29 b29
+xfer b32 f32
+xfer f37 b37
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 2
+knit + f1 2
+knit + b2 2
+knit + b3 2
+knit + f4 2
+knit + b5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + b11 2
+knit + b12 2
+knit + b13 2
+knit + f14 2
+knit + f15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + f19 2
+knit + f20 2
+knit + f21 2
+knit + f22 2
+knit + b23 2
+knit + f24 2
+knit + f25 2
+knit + b26 2
+knit + b27 2
+knit + f28 2
+knit + b29 2
+knit + f30 2
+knit + b31 2
+knit + f32 2
+knit + f33 2
+knit + f34 2
+knit + f35 2
+knit + b36 2
+knit + b37 2
+knit + b38 2
+knit + b39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer b3 f3
+xfer b6 f6
+xfer f7 b7
+xfer f10 b10
+xfer b11 f11
+xfer b13 f13
+xfer f14 b14
+xfer b16 f16
+xfer b17 f17
+xfer b18 f18
+xfer f22 b22
+xfer b23 f23
+xfer b26 f26
+xfer b27 f27
+xfer f28 b28
+xfer b29 f29
+xfer f30 b30
+xfer f32 b32
+xfer f33 b33
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - f39 2
+knit - b38 2
+knit - b37 2
+knit - b36 2
+knit - f35 2
+knit - f34 2
+knit - b33 2
+knit - b32 2
+knit - b31 2
+knit - b30 2
+knit - f29 2
+knit - b28 2
+knit - f27 2
+knit - f26 2
+knit - f25 2
+knit - f24 2
+knit - f23 2
+knit - b22 2
+knit - f21 2
+knit - f20 2
+knit - f19 2
+knit - f18 2
+knit - f17 2
+knit - f16 2
+knit - f15 2
+knit - b14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - b9 2
+knit - b8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - f3 2
+knit - f2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer f3 b3
+xfer b5 f5
+xfer f6 b6
+xfer b8 f8
+xfer b10 f10
+xfer b12 f12
+xfer f17 b17
+xfer f19 b19
+xfer f20 b20
+xfer b22 f22
+xfer f25 b25
+xfer f26 b26
+xfer b28 f28
+xfer f29 b29
+xfer b32 f32
+xfer b33 f33
+xfer f34 b34
+xfer b36 f36
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + b1 2
+knit + b2 2
+knit + b3 2
+knit + f4 2
+knit + f5 2
+knit + b6 2
+knit + b7 2
+knit + f8 2
+knit + b9 2
+knit + f10 2
+knit + f11 2
+knit + f12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + f16 2
+knit + b17 2
+knit + f18 2
+knit + b19 2
+knit + b20 2
+knit + f21 2
+knit + f22 2
+knit + f23 2
+knit + f24 2
+knit + b25 2
+knit + b26 2
+knit + f27 2
+knit + f28 2
+knit + b29 2
+knit + b30 2
+knit + b31 2
+knit + f32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + f36 2
+knit + b37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer b3 f3
+xfer f8 b8
+xfer f12 b12
+xfer b20 f20
+xfer f24 b24
+xfer b25 f25
+xfer b26 f26
+xfer f27 b27
+xfer f28 b28
+xfer b29 f29
+xfer f32 b32
+xfer f36 b36
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - f39 2
+knit - f38 2
+knit - b37 2
+knit - b36 2
+knit - f35 2
+knit - b34 2
+knit - f33 2
+knit - b32 2
+knit - b31 2
+knit - b30 2
+knit - f29 2
+knit - b28 2
+knit - b27 2
+knit - f26 2
+knit - f25 2
+knit - b24 2
+knit - f23 2
+knit - f22 2
+knit - f21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - f15 2
+knit - b14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - f10 2
+knit - b9 2
+knit - b8 2
+knit - b7 2
+knit - b6 2
+knit - f5 2
+knit - f4 2
+knit - f3 2
+knit - b2 2
+knit - f1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer b2 f2
+xfer f4 b4
+xfer f5 b5
+xfer b6 f6
+xfer b7 f7
+xfer b8 f8
+xfer f10 b10
+xfer f11 b11
+xfer b12 f12
+xfer f13 b13
+xfer b14 f14
+xfer f15 b15
+xfer f16 b16
+xfer b17 f17
+xfer f18 b18
+xfer b19 f19
+xfer f25 b25
+xfer f26 b26
+xfer b27 f27
+xfer f29 b29
+xfer b30 f30
+xfer b32 f32
+xfer f35 b35
+xfer b37 f37
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + b1 2
+knit + f2 2
+knit + f3 2
+knit + b4 2
+knit + b5 2
+knit + f6 2
+knit + f7 2
+knit + f8 2
+knit + b9 2
+knit + b10 2
+knit + b11 2
+knit + f12 2
+knit + b13 2
+knit + f14 2
+knit + b15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + f20 2
+knit + f21 2
+knit + f22 2
+knit + f23 2
+knit + b24 2
+knit + b25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + b29 2
+knit + f30 2
+knit + b31 2
+knit + f32 2
+knit + f33 2
+knit + b34 2
+knit + b35 2
+knit + b36 2
+knit + f37 2
+knit + f38 2
+knit + b39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f2 b2
+xfer f3 b3
+xfer b4 f4
+xfer b5 f5
+xfer b9 f9
+xfer b11 f11
+xfer f12 b12
+xfer b13 f13
+xfer f14 b14
+xfer b16 f16
+xfer b18 f18
+xfer f21 b21
+xfer f22 b22
+xfer f23 b23
+xfer f30 b30
+xfer b31 f31
+xfer f32 b32
+xfer b34 f34
+xfer b35 f35
+xfer f37 b37
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - f39 2
+knit - f38 2
+knit - b37 2
+knit - b36 2
+knit - f35 2
+knit - f34 2
+knit - f33 2
+knit - b32 2
+knit - f31 2
+knit - b30 2
+knit - b29 2
+knit - b28 2
+knit - f27 2
+knit - b26 2
+knit - b25 2
+knit - b24 2
+knit - b23 2
+knit - b22 2
+knit - b21 2
+knit - f20 2
+knit - f19 2
+knit - f18 2
+knit - f17 2
+knit - f16 2
+knit - b15 2
+knit - b14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - f8 2
+knit - f7 2
+knit - f6 2
+knit - f5 2
+knit - f4 2
+knit - b3 2
+knit - b2 2
+knit - b1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f4 b4
+xfer f6 b6
+xfer f7 b7
+xfer f8 b8
+xfer f9 b9
+xfer b10 f10
+xfer b15 f15
+xfer f16 b16
+xfer f18 b18
+xfer b21 f21
+xfer b25 f25
+xfer b26 f26
+xfer f27 b27
+xfer b28 f28
+xfer b32 f32
+xfer f34 b34
+xfer b37 f37
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + b3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + b7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + f20 2
+knit + f21 2
+knit + b22 2
+knit + b23 2
+knit + b24 2
+knit + f25 2
+knit + f26 2
+knit + b27 2
+knit + f28 2
+knit + b29 2
+knit + b30 2
+knit + f31 2
+knit + f32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer f5 b5
+xfer b7 f7
+xfer b8 f8
+xfer b14 f14
+xfer f15 b15
+xfer b16 f16
+xfer f19 b19
+xfer f20 b20
+xfer b22 f22
+xfer f25 b25
+xfer f28 b28
+xfer f33 b33
+xfer b38 f38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - f39 2
+knit - f38 2
+knit - f37 2
+knit - b36 2
+knit - f35 2
+knit - b34 2
+knit - b33 2
+knit - f32 2
+knit - f31 2
+knit - b30 2
+knit - b29 2
+knit - b28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - b24 2
+knit - b23 2
+knit - f22 2
+knit - f21 2
+knit - b20 2
+knit - b19 2
+knit - b18 2
+knit - f17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - f7 2
+knit - b6 2
+knit - b5 2
+knit - b4 2
+knit - b3 2
+knit - f2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b3 f3
+xfer b5 f5
+xfer b9 f9
+xfer f10 b10
+xfer f14 b14
+xfer f16 b16
+xfer b19 f19
+xfer f21 b21
+xfer b23 f23
+xfer b25 f25
+xfer b29 f29
+xfer b30 f30
+xfer f31 b31
+xfer f32 b32
+xfer b33 f33
+xfer b34 f34
+xfer b36 f36
+xfer f37 b37
+x-stitch-number 4
+x-speed-number 400
+rack 0
+x-roller-advance 300
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+x-speed-number 100
+x-roller-advance 0
+xfer f0 b0
+xfer b1 f1
+xfer b2 f2
+xfer b3 f3
+xfer f4 b4
+xfer f5 b5
+xfer f6 b6
+xfer b7 f7
+xfer b8 f8
+xfer b9 f9
+xfer b10 f10
+xfer b11 f11
+xfer b12 f12
+xfer b13 f13
+xfer b14 f14
+xfer f15 b15
+xfer f16 b16
+xfer f17 b17
+xfer f18 b18
+xfer b19 f19
+xfer f20 b20
+xfer f21 b21
+xfer f22 b22
+xfer f23 b23
+xfer f24 b24
+xfer b25 f25
+xfer f26 b26
+xfer b27 f27
+xfer f28 b28
+xfer f29 b29
+xfer b30 f30
+xfer b31 f31
+xfer f32 b32
+xfer f33 b33
+xfer f34 b34
+xfer f35 b35
+xfer b36 f36
+xfer b37 f37
+xfer b38 f38
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 450
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + b4 2
+knit + b5 2
+knit + b6 2
+knit + f7 2
+knit + f8 2
+knit + f9 2
+knit + f10 2
+knit + f11 2
+knit + f12 2
+knit + f13 2
+knit + f14 2
+knit + b15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + b21 2
+knit + b22 2
+knit + b23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + b29 2
+knit + f30 2
+knit + f31 2
+knit + b32 2
+knit + b33 2
+knit + b34 2
+knit + b35 2
+knit + f36 2
+knit + f37 2
+knit + f38 2
+knit + b39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f2 b2
+xfer b4 f4
+xfer b6 f6
+xfer f9 b9
+xfer f10 b10
+xfer f12 b12
+xfer b18 f18
+xfer f19 b19
+xfer b22 f22
+xfer f25 b25
+xfer f27 b27
+xfer f30 b30
+xfer f31 b31
+xfer b34 f34
+xfer f36 b36
+xfer f38 b38
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - f39 2
+knit - b38 2
+knit - f37 2
+knit - b36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - b32 2
+knit - b31 2
+knit - b30 2
+knit - b29 2
+knit - b28 2
+knit - b27 2
+knit - b26 2
+knit - b25 2
+knit - b24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - b20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - b16 2
+knit - b15 2
+knit - f14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - b9 2
+knit - f8 2
+knit - f7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - f3 2
+knit - b2 2
+knit - f1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer b5 f5
+xfer b9 f9
+xfer f11 b11
+xfer f14 b14
+xfer b15 f15
+xfer f18 b18
+xfer b19 f19
+xfer b20 f20
+xfer f22 b22
+xfer b23 f23
+xfer b24 f24
+xfer b25 f25
+xfer b27 f27
+xfer b28 f28
+xfer b29 f29
+xfer b30 f30
+xfer b33 f33
+xfer f34 b34
+xfer b35 f35
+xfer b36 f36
+xfer f37 b37
+xfer b38 f38
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + f4 2
+knit + f5 2
+knit + f6 2
+knit + f7 2
+knit + f8 2
+knit + f9 2
+knit + b10 2
+knit + b11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + f19 2
+knit + f20 2
+knit + b21 2
+knit + b22 2
+knit + f23 2
+knit + f24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + f28 2
+knit + f29 2
+knit + f30 2
+knit + b31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + f36 2
+knit + b37 2
+knit + f38 2
+knit + b39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f2 b2
+xfer f4 b4
+xfer f5 b5
+xfer f7 b7
+xfer f8 b8
+xfer f9 b9
+xfer b10 f10
+xfer f13 b13
+xfer b14 f14
+xfer f15 b15
+xfer b16 f16
+xfer b17 f17
+xfer b18 f18
+xfer f20 b20
+xfer b21 f21
+xfer f23 b23
+xfer f24 b24
+xfer f25 b25
+xfer f27 b27
+xfer f29 b29
+xfer f30 b30
+xfer b34 f34
+xfer b37 f37
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - b39 2
+knit - b38 2
+knit - f37 2
+knit - f36 2
+knit - f35 2
+knit - f34 2
+knit - f33 2
+knit - b32 2
+knit - b31 2
+knit - b30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - b26 2
+knit - b25 2
+knit - b24 2
+knit - b23 2
+knit - b22 2
+knit - f21 2
+knit - b20 2
+knit - f19 2
+knit - f18 2
+knit - f17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - b12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - b8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - b4 2
+knit - f3 2
+knit - b2 2
+knit - f1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer b4 f4
+xfer b5 f5
+xfer f6 b6
+xfer b7 f7
+xfer b8 f8
+xfer b9 f9
+xfer b11 f11
+xfer b12 f12
+xfer b13 f13
+xfer f14 b14
+xfer b15 f15
+xfer f16 b16
+xfer f17 b17
+xfer f18 b18
+xfer f19 b19
+xfer f21 b21
+xfer b24 f24
+xfer b29 f29
+xfer b31 f31
+xfer b32 f32
+xfer f33 b33
+xfer f35 b35
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + f4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + f8 2
+knit + f9 2
+knit + f10 2
+knit + f11 2
+knit + f12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + b19 2
+knit + b20 2
+knit + b21 2
+knit + b22 2
+knit + b23 2
+knit + f24 2
+knit + b25 2
+knit + b26 2
+knit + b27 2
+knit + f28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + f32 2
+knit + b33 2
+knit + f34 2
+knit + b35 2
+knit + f36 2
+knit + f37 2
+knit + b38 2
+knit + b39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f3 b3
+xfer f5 b5
+xfer f7 b7
+xfer f8 b8
+xfer f10 b10
+xfer f13 b13
+xfer b14 f14
+xfer b18 f18
+xfer b19 f19
+xfer b21 f21
+xfer b26 f26
+xfer b27 f27
+xfer b30 f30
+xfer b35 f35
+xfer f36 b36
+xfer b38 f38
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - f39 2
+knit - f38 2
+knit - f37 2
+knit - b36 2
+knit - f35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - f31 2
+knit - f30 2
+knit - f29 2
+knit - f28 2
+knit - f27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - b22 2
+knit - f21 2
+knit - b20 2
+knit - f19 2
+knit - f18 2
+knit - b17 2
+knit - b16 2
+knit - f15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - b7 2
+knit - b6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - f1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer b3 f3
+xfer b6 f6
+xfer b10 f10
+xfer f14 b14
+xfer f15 b15
+xfer b17 f17
+xfer f19 b19
+xfer b20 f20
+xfer b23 f23
+xfer f24 b24
+xfer b25 f25
+xfer f30 b30
+xfer f31 b31
+xfer b33 f33
+xfer f35 b35
+xfer f38 b38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + b1 2
+knit + f2 2
+knit + f3 2
+knit + f4 2
+knit + b5 2
+knit + f6 2
+knit + b7 2
+knit + b8 2
+knit + f9 2
+knit + f10 2
+knit + f11 2
+knit + f12 2
+knit + b13 2
+knit + b14 2
+knit + b15 2
+knit + b16 2
+knit + f17 2
+knit + f18 2
+knit + b19 2
+knit + f20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + f26 2
+knit + f27 2
+knit + f28 2
+knit + f29 2
+knit + b30 2
+knit + b31 2
+knit + f32 2
+knit + f33 2
+knit + f34 2
+knit + b35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f2 b2
+xfer f4 b4
+xfer f10 b10
+xfer f12 b12
+xfer b15 f15
+xfer f17 b17
+xfer f21 b21
+xfer f23 b23
+xfer b24 f24
+xfer f25 b25
+xfer f27 b27
+xfer f28 b28
+xfer f29 b29
+xfer b30 f30
+xfer b31 f31
+xfer f32 b32
+xfer b36 f36
+xfer b38 f38
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - f37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - f33 2
+knit - b32 2
+knit - f31 2
+knit - f30 2
+knit - b29 2
+knit - b28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - b22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - b16 2
+knit - f15 2
+knit - b14 2
+knit - b13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - b4 2
+knit - f3 2
+knit - b2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b2 f2
+xfer b4 f4
+xfer b5 f5
+xfer f6 b6
+xfer b7 f7
+xfer f9 b9
+xfer b10 f10
+xfer f11 b11
+xfer b13 f13
+xfer f15 b15
+xfer b16 f16
+xfer f18 b18
+xfer b19 f19
+xfer f20 b20
+xfer b22 f22
+xfer b25 f25
+xfer f26 b26
+xfer b32 f32
+xfer f36 b36
+xfer f37 b37
+xfer f38 b38
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + f4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + b11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + b15 2
+knit + f16 2
+knit + b17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + b21 2
+knit + f22 2
+knit + b23 2
+knit + f24 2
+knit + f25 2
+knit + b26 2
+knit + b27 2
+knit + b28 2
+knit + b29 2
+knit + f30 2
+knit + f31 2
+knit + f32 2
+knit + f33 2
+knit + f34 2
+knit + b35 2
+knit + b36 2
+knit + b37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f2 b2
+xfer f4 b4
+xfer f7 b7
+xfer b8 f8
+xfer b9 f9
+xfer f10 b10
+xfer b14 f14
+xfer b15 f15
+xfer b17 f17
+xfer f22 b22
+xfer f24 b24
+xfer f25 b25
+xfer b26 f26
+xfer b28 f28
+xfer f32 b32
+xfer b36 f36
+xfer b37 f37
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - b39 2
+knit - b38 2
+knit - f37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - f33 2
+knit - b32 2
+knit - f31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - b24 2
+knit - b23 2
+knit - b22 2
+knit - b21 2
+knit - b20 2
+knit - f19 2
+knit - b18 2
+knit - f17 2
+knit - f16 2
+knit - f15 2
+knit - f14 2
+knit - f13 2
+knit - b12 2
+knit - b11 2
+knit - b10 2
+knit - f9 2
+knit - f8 2
+knit - b7 2
+knit - b6 2
+knit - f5 2
+knit - b4 2
+knit - f3 2
+knit - b2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer f5 b5
+xfer b7 f7
+xfer b10 f10
+xfer b11 f11
+xfer b12 f12
+xfer f15 b15
+xfer f16 b16
+xfer f17 b17
+xfer b25 f25
+xfer f26 b26
+xfer b27 f27
+xfer f28 b28
+xfer f33 b33
+xfer f34 b34
+xfer b38 f38
+x-speed-number 100
+x-roller-advance 0
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer b5 f5
+xfer b6 f6
+xfer f8 b8
+xfer f9 b9
+xfer f10 b10
+xfer f12 b12
+xfer b15 f15
+xfer b16 f16
+xfer b21 f21
+xfer b23 f23
+xfer b24 f24
+xfer f25 b25
+xfer b28 f28
+xfer f30 b30
+xfer f31 b31
+xfer b32 f32
+xfer b33 f33
+xfer b34 f34
+xfer f38 b38
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 450
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + b4 6
+knit + f5 6
+knit + f6 6
+knit + f7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + f16 6
+knit + b17 6
+knit + b18 6
+knit + f19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + f23 6
+knit + f24 6
+knit + b25 6
+knit + b26 6
+knit + f27 6
+knit + f28 6
+knit + b29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + f36 6
+knit + f37 6
+knit + b38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f6 b6
+xfer f7 b7
+xfer b9 f9
+xfer b10 f10
+xfer b12 f12
+xfer f13 b13
+xfer f14 b14
+xfer b17 f17
+xfer f19 b19
+xfer b20 f20
+xfer f21 b21
+xfer f23 b23
+xfer f24 b24
+xfer b25 f25
+xfer f27 b27
+xfer b35 f35
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - b31 6
+knit - b30 6
+knit - b29 6
+knit - f28 6
+knit - b27 6
+knit - b26 6
+knit - f25 6
+knit - b24 6
+knit - b23 6
+knit - b22 6
+knit - b21 6
+knit - f20 6
+knit - b19 6
+knit - b18 6
+knit - f17 6
+knit - f16 6
+knit - f15 6
+knit - b14 6
+knit - b13 6
+knit - f12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - b8 6
+knit - b7 6
+knit - b6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer b2 f2
+xfer f3 b3
+xfer b7 f7
+xfer f10 b10
+xfer f15 b15
+xfer b18 f18
+xfer b19 f19
+xfer f20 b20
+xfer b21 f21
+xfer f25 b25
+xfer f28 b28
+xfer b29 f29
+xfer f32 b32
+xfer f35 b35
+xfer f36 b36
+xfer f38 b38
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + b3 6
+knit + b4 6
+knit + f5 6
+knit + b6 6
+knit + f7 6
+knit + b8 6
+knit + f9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + b13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + f17 6
+knit + f18 6
+knit + f19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + b25 6
+knit + b26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + b36 6
+knit + f37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b4 f4
+xfer f7 b7
+xfer f11 b11
+xfer f12 b12
+xfer b15 f15
+xfer f16 b16
+xfer f21 b21
+xfer b23 f23
+xfer b25 f25
+xfer b26 f26
+xfer b27 f27
+xfer f29 b29
+xfer b30 f30
+xfer b32 f32
+xfer f33 b33
+xfer b36 f36
+xfer f37 b37
+xfer b38 f38
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - f36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - f32 6
+knit - b31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - f26 6
+knit - f25 6
+knit - b24 6
+knit - f23 6
+knit - b22 6
+knit - b21 6
+knit - b20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - b14 6
+knit - b13 6
+knit - b12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - b8 6
+knit - b7 6
+knit - b6 6
+knit - f5 6
+knit - f4 6
+knit - b3 6
+knit - f2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f2 b2
+xfer f4 b4
+xfer b6 f6
+xfer b10 f10
+xfer b11 f11
+xfer b12 f12
+xfer b13 f13
+xfer f17 b17
+xfer b20 f20
+xfer b21 f21
+xfer b22 f22
+xfer b24 f24
+xfer f27 b27
+xfer b28 f28
+xfer b29 f29
+xfer f30 b30
+xfer b31 f31
+xfer f34 b34
+xfer f36 b36
+xfer b37 f37
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + b2 6
+knit + b3 6
+knit + b4 6
+knit + f5 6
+knit + f6 6
+knit + b7 6
+knit + b8 6
+knit + f9 6
+knit + f10 6
+knit + f11 6
+knit + f12 6
+knit + f13 6
+knit + b14 6
+knit + f15 6
+knit + b16 6
+knit + b17 6
+knit + f18 6
+knit + f19 6
+knit + f20 6
+knit + f21 6
+knit + f22 6
+knit + f23 6
+knit + f24 6
+knit + f25 6
+knit + f26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + f31 6
+knit + f32 6
+knit + b33 6
+knit + b34 6
+knit + b35 6
+knit + b36 6
+knit + f37 6
+knit + f38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer b3 f3
+xfer f5 b5
+xfer b8 f8
+xfer f9 b9
+xfer f10 b10
+xfer f15 b15
+xfer b16 f16
+xfer f24 b24
+xfer f25 b25
+xfer f26 b26
+xfer b27 f27
+xfer f28 b28
+xfer f29 b29
+xfer f32 b32
+xfer b33 f33
+xfer b34 f34
+xfer b36 f36
+xfer f37 b37
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - f36 6
+knit - b35 6
+knit - f34 6
+knit - f33 6
+knit - b32 6
+knit - f31 6
+knit - b30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - f23 6
+knit - f22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - f12 6
+knit - f11 6
+knit - b10 6
+knit - b9 6
+knit - f8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer b4 f4
+xfer b5 f5
+xfer f6 b6
+xfer b7 f7
+xfer f11 b11
+xfer f12 b12
+xfer f13 b13
+xfer b14 f14
+xfer b17 f17
+xfer f20 b20
+xfer f21 b21
+xfer f22 b22
+xfer b25 f25
+xfer f27 b27
+xfer b28 f28
+xfer b29 f29
+xfer f33 b33
+xfer b35 f35
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + f1 6
+knit + f2 6
+knit + f3 6
+knit + f4 6
+knit + f5 6
+knit + b6 6
+knit + f7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + b12 6
+knit + b13 6
+knit + f14 6
+knit + b15 6
+knit + f16 6
+knit + f17 6
+knit + f18 6
+knit + f19 6
+knit + b20 6
+knit + b21 6
+knit + b22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + f31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + f35 6
+knit + f36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f3 b3
+xfer f5 b5
+xfer b6 f6
+xfer f8 b8
+xfer b12 f12
+xfer b13 f13
+xfer f16 b16
+xfer b21 f21
+xfer b24 f24
+xfer f25 b25
+xfer b26 f26
+xfer f28 b28
+xfer f29 b29
+xfer b30 f30
+xfer b32 f32
+xfer f35 b35
+xfer f36 b36
+xfer b37 f37
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - b38 6
+knit - f37 6
+knit - b36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - b27 6
+knit - f26 6
+knit - b25 6
+knit - f24 6
+knit - f23 6
+knit - b22 6
+knit - f21 6
+knit - b20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - b15 6
+knit - f14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - b9 6
+knit - b8 6
+knit - f7 6
+knit - f6 6
+knit - b5 6
+knit - f4 6
+knit - b3 6
+knit - f2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer f4 b4
+xfer f6 b6
+xfer b11 f11
+xfer f12 b12
+xfer f14 b14
+xfer b16 f16
+xfer b20 f20
+xfer b22 f22
+xfer f24 b24
+xfer b25 f25
+xfer f26 b26
+xfer b28 f28
+xfer b29 f29
+xfer f30 b30
+xfer f32 b32
+xfer b38 f38
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + b2 6
+knit + b3 6
+knit + b4 6
+knit + b5 6
+knit + b6 6
+knit + f7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + b12 6
+knit + f13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + f17 6
+knit + f18 6
+knit + f19 6
+knit + f20 6
+knit + f21 6
+knit + f22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + f31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + b35 6
+knit + b36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer b3 f3
+xfer b4 f4
+xfer b6 f6
+xfer f7 b7
+xfer b9 f9
+xfer b10 f10
+xfer f11 b11
+xfer b15 f15
+xfer f17 b17
+xfer f23 b23
+xfer b27 f27
+xfer f29 b29
+xfer b30 f30
+xfer b33 f33
+xfer f34 b34
+xfer b35 f35
+xfer b36 f36
+xfer f37 b37
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - f36 6
+knit - f35 6
+knit - b34 6
+knit - f33 6
+knit - b32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - f28 6
+knit - f27 6
+knit - b26 6
+knit - f25 6
+knit - b24 6
+knit - b23 6
+knit - f22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - f15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - b11 6
+knit - f10 6
+knit - f9 6
+knit - b8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - f4 6
+knit - f3 6
+knit - f2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f2 b2
+xfer b5 f5
+xfer b8 f8
+xfer f9 b9
+xfer f10 b10
+xfer b11 f11
+xfer b12 f12
+xfer b14 f14
+xfer f15 b15
+xfer f16 b16
+xfer f19 b19
+xfer f21 b21
+xfer f22 b22
+xfer b26 f26
+xfer f27 b27
+xfer b29 f29
+xfer f31 b31
+xfer f33 b33
+xfer b37 f37
+xfer f38 b38
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + b2 6
+knit + f3 6
+knit + f4 6
+knit + f5 6
+knit + f6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + f13 6
+knit + f14 6
+knit + b15 6
+knit + b16 6
+knit + b17 6
+knit + f18 6
+knit + b19 6
+knit + f20 6
+knit + b21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + f25 6
+knit + f26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + f30 6
+knit + b31 6
+knit + b32 6
+knit + b33 6
+knit + b34 6
+knit + f35 6
+knit + f36 6
+knit + f37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer f3 b3
+xfer f5 b5
+xfer f6 b6
+xfer b7 f7
+xfer f8 b8
+xfer b9 f9
+xfer f11 b11
+xfer f13 b13
+xfer b16 f16
+xfer b17 f17
+xfer f18 b18
+xfer f20 b20
+xfer b21 f21
+xfer b23 f23
+xfer f25 b25
+xfer f26 b26
+xfer b27 f27
+xfer f28 b28
+xfer f29 b29
+xfer f30 b30
+xfer b31 f31
+xfer b32 f32
+xfer b33 f33
+xfer b38 f38
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - f35 6
+knit - b34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - b30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - f23 6
+knit - b22 6
+knit - f21 6
+knit - b20 6
+knit - b19 6
+knit - b18 6
+knit - f17 6
+knit - f16 6
+knit - b15 6
+knit - f14 6
+knit - b13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - b8 6
+knit - f7 6
+knit - b6 6
+knit - b5 6
+knit - f4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f4 b4
+xfer b5 f5
+xfer f7 b7
+xfer b8 f8
+xfer f9 b9
+xfer b13 f13
+xfer f17 b17
+xfer b18 f18
+xfer b19 f19
+xfer b20 f20
+xfer b22 f22
+xfer f23 b23
+xfer b25 f25
+xfer b26 f26
+xfer b29 f29
+xfer b34 f34
+xfer f37 b37
+xfer f38 b38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + b2 6
+knit + b3 6
+knit + b4 6
+knit + f5 6
+knit + b6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + f13 6
+knit + f14 6
+knit + b15 6
+knit + f16 6
+knit + b17 6
+knit + f18 6
+knit + f19 6
+knit + f20 6
+knit + f21 6
+knit + f22 6
+knit + b23 6
+knit + b24 6
+knit + f25 6
+knit + f26 6
+knit + f27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + f31 6
+knit + f32 6
+knit + f33 6
+knit + f34 6
+knit + f35 6
+knit + f36 6
+knit + b37 6
+knit + b38 6
+knit + b39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer b4 f4
+xfer f5 b5
+xfer b6 f6
+xfer b7 f7
+xfer b9 f9
+xfer b10 f10
+xfer b11 f11
+xfer f13 b13
+xfer b15 f15
+xfer f16 b16
+xfer b17 f17
+xfer f19 b19
+xfer f21 b21
+xfer b23 f23
+xfer f26 b26
+xfer b30 f30
+xfer f32 b32
+xfer b38 f38
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - f33 6
+knit - b32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - b28 6
+knit - f27 6
+knit - b26 6
+knit - f25 6
+knit - b24 6
+knit - f23 6
+knit - f22 6
+knit - b21 6
+knit - f20 6
+knit - b19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - f14 6
+knit - b13 6
+knit - f12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - f8 6
+knit - f7 6
+knit - f6 6
+knit - b5 6
+knit - f4 6
+knit - b3 6
+knit - b2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer b2 f2
+xfer b3 f3
+xfer f7 b7
+xfer f9 b9
+xfer f10 b10
+xfer f11 b11
+xfer f12 b12
+xfer b16 f16
+xfer f17 b17
+xfer b19 f19
+xfer b24 f24
+xfer f27 b27
+xfer f30 b30
+xfer f31 b31
+xfer f33 b33
+xfer f34 b34
+xfer f35 b35
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + f6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + b12 6
+knit + b13 6
+knit + f14 6
+knit + f15 6
+knit + f16 6
+knit + b17 6
+knit + f18 6
+knit + f19 6
+knit + f20 6
+knit + b21 6
+knit + f22 6
+knit + f23 6
+knit + f24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + b33 6
+knit + b34 6
+knit + b35 6
+knit + f36 6
+knit + b37 6
+knit + f38 6
+knit + b39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f2 b2
+xfer f4 b4
+xfer b5 f5
+xfer b12 f12
+xfer b13 f13
+xfer f15 b15
+xfer f19 b19
+xfer f20 b20
+xfer b21 f21
+xfer f22 b22
+xfer f23 b23
+xfer b28 f28
+xfer f29 b29
+xfer b31 f31
+xfer b32 f32
+xfer b33 f33
+xfer f36 b36
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - b34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - b30 6
+knit - b29 6
+knit - f28 6
+knit - b27 6
+knit - b26 6
+knit - f25 6
+knit - f24 6
+knit - b23 6
+knit - b22 6
+knit - f21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - b15 6
+knit - f14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - b9 6
+knit - f8 6
+knit - b7 6
+knit - f6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f3 b3
+xfer b4 f4
+xfer f5 b5
+xfer f8 b8
+xfer b9 f9
+xfer b10 f10
+xfer b11 f11
+xfer f12 b12
+xfer b15 f15
+xfer f16 b16
+xfer b20 f20
+xfer f21 b21
+xfer f25 b25
+xfer f28 b28
+xfer f31 b31
+xfer f32 b32
+xfer f33 b33
+xfer b34 f34
+xfer b35 f35
+xfer b36 f36
+xfer b37 f37
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + b2 6
+knit + b3 6
+knit + f4 6
+knit + b5 6
+knit + f6 6
+knit + b7 6
+knit + b8 6
+knit + f9 6
+knit + f10 6
+knit + f11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + b16 6
+knit + b17 6
+knit + f18 6
+knit + b19 6
+knit + f20 6
+knit + b21 6
+knit + b22 6
+knit + b23 6
+knit + f24 6
+knit + b25 6
+knit + b26 6
+knit + b27 6
+knit + b28 6
+knit + b29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + f35 6
+knit + f36 6
+knit + f37 6
+knit + f38 6
+knit + b39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f4 b4
+xfer b5 f5
+xfer b7 f7
+xfer f9 b9
+xfer f10 b10
+xfer f11 b11
+xfer f13 b13
+xfer f18 b18
+xfer b21 f21
+xfer b27 f27
+xfer b28 f28
+xfer b29 f29
+xfer b30 f30
+xfer b31 f31
+xfer b33 f33
+xfer f34 b34
+xfer f35 b35
+xfer f36 b36
+xfer f37 b37
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - b34 6
+knit - f33 6
+knit - b32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - f28 6
+knit - f27 6
+knit - b26 6
+knit - b25 6
+knit - f24 6
+knit - b23 6
+knit - b22 6
+knit - f21 6
+knit - f20 6
+knit - b19 6
+knit - b18 6
+knit - b17 6
+knit - b16 6
+knit - f15 6
+knit - f14 6
+knit - b13 6
+knit - b12 6
+knit - b11 6
+knit - b10 6
+knit - b9 6
+knit - b8 6
+knit - f7 6
+knit - f6 6
+knit - f5 6
+knit - b4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b3 f3
+xfer f5 b5
+xfer f6 b6
+xfer f7 b7
+xfer b9 f9
+xfer b12 f12
+xfer f14 b14
+xfer f15 b15
+xfer b17 f17
+xfer b26 f26
+xfer f27 b27
+xfer f28 b28
+xfer f30 b30
+xfer f31 b31
+xfer f33 b33
+xfer b34 f34
+xfer b36 f36
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + b4 6
+knit + b5 6
+knit + b6 6
+knit + b7 6
+knit + b8 6
+knit + f9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + b13 6
+knit + b14 6
+knit + b15 6
+knit + b16 6
+knit + f17 6
+knit + b18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + f24 6
+knit + b25 6
+knit + f26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + b35 6
+knit + f36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b7 f7
+xfer b8 f8
+xfer f9 b9
+xfer b15 f15
+xfer b16 f16
+xfer f17 b17
+xfer b18 f18
+xfer f20 b20
+xfer f24 b24
+xfer b25 f25
+xfer b27 f27
+xfer b28 f28
+xfer b30 f30
+xfer b35 f35
+xfer f36 b36
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - f35 6
+knit - f34 6
+knit - b33 6
+knit - b32 6
+knit - b31 6
+knit - f30 6
+knit - f29 6
+knit - f28 6
+knit - f27 6
+knit - f26 6
+knit - f25 6
+knit - b24 6
+knit - b23 6
+knit - b22 6
+knit - f21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - f15 6
+knit - b14 6
+knit - b13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - b9 6
+knit - f8 6
+knit - f7 6
+knit - b6 6
+knit - b5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b2 f2
+xfer f3 b3
+xfer b5 f5
+xfer f8 b8
+xfer b11 f11
+xfer f12 b12
+xfer b13 f13
+xfer b14 f14
+xfer f16 b16
+xfer f18 b18
+xfer b20 f20
+xfer b23 f23
+xfer f27 b27
+xfer f30 b30
+xfer b31 f31
+xfer b33 f33
+xfer f34 b34
+xfer f35 b35
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + f1 6
+knit + f2 6
+knit + b3 6
+knit + b4 6
+knit + f5 6
+knit + b6 6
+knit + f7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + b16 6
+knit + b17 6
+knit + b18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + b22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + f26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + f31 6
+knit + b32 6
+knit + f33 6
+knit + b34 6
+knit + b35 6
+knit + b36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b3 f3
+xfer f5 b5
+xfer b6 f6
+xfer f7 b7
+xfer b10 f10
+xfer b12 f12
+xfer f14 b14
+xfer b17 f17
+xfer b18 f18
+xfer f20 b20
+xfer b22 f22
+xfer f23 b23
+xfer b24 f24
+xfer f25 b25
+xfer f26 b26
+xfer b27 f27
+xfer b30 f30
+xfer b32 f32
+xfer f33 b33
+xfer b35 f35
+xfer b36 f36
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - b38 6
+knit - b37 6
+knit - f36 6
+knit - f35 6
+knit - b34 6
+knit - b33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - f28 6
+knit - f27 6
+knit - b26 6
+knit - b25 6
+knit - f24 6
+knit - b23 6
+knit - f22 6
+knit - f21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - b14 6
+knit - f13 6
+knit - f12 6
+knit - f11 6
+knit - f10 6
+knit - b9 6
+knit - b8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - f3 6
+knit - f2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b4 f4
+xfer f6 b6
+xfer b8 f8
+xfer f10 b10
+xfer f11 b11
+xfer f12 b12
+xfer b14 f14
+xfer b16 f16
+xfer f17 b17
+xfer f18 b18
+xfer b20 f20
+xfer f22 b22
+xfer b23 f23
+xfer b25 f25
+xfer f28 b28
+xfer f31 b31
+xfer b33 f33
+xfer f36 b36
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + f1 6
+knit + f2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + f16 6
+knit + b17 6
+knit + b18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + b22 6
+knit + f23 6
+knit + f24 6
+knit + f25 6
+knit + b26 6
+knit + f27 6
+knit + b28 6
+knit + f29 6
+knit + f30 6
+knit + b31 6
+knit + f32 6
+knit + f33 6
+knit + b34 6
+knit + f35 6
+knit + b36 6
+knit + b37 6
+knit + b38 6
+knit + b39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer f2 b2
+xfer f3 b3
+xfer f4 b4
+xfer f8 b8
+xfer b11 f11
+xfer f14 b14
+xfer f15 b15
+xfer f16 b16
+xfer b17 f17
+xfer b18 f18
+xfer b19 f19
+xfer b22 f22
+xfer f24 b24
+xfer f27 b27
+xfer f30 b30
+xfer f32 b32
+xfer f33 b33
+xfer b34 f34
+xfer f35 b35
+xfer b37 f37
+xfer b38 f38
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - f38 6
+knit - f37 6
+knit - b36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - b32 6
+knit - b31 6
+knit - b30 6
+knit - f29 6
+knit - b28 6
+knit - b27 6
+knit - b26 6
+knit - f25 6
+knit - b24 6
+knit - f23 6
+knit - f22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - f11 6
+knit - b10 6
+knit - b9 6
+knit - b8 6
+knit - b7 6
+knit - b6 6
+knit - b5 6
+knit - b4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer b3 f3
+xfer b6 f6
+xfer b8 f8
+xfer b9 f9
+xfer b10 f10
+xfer f11 b11
+xfer b14 f14
+xfer b15 f15
+xfer b16 f16
+xfer f17 b17
+xfer f19 b19
+xfer f20 b20
+xfer f22 b22
+xfer f23 b23
+xfer b27 f27
+xfer f29 b29
+xfer b32 f32
+xfer f34 b34
+xfer b35 f35
+xfer f37 b37
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + f2 6
+knit + f3 6
+knit + b4 6
+knit + b5 6
+knit + f6 6
+knit + b7 6
+knit + f8 6
+knit + f9 6
+knit + f10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + f16 6
+knit + b17 6
+knit + f18 6
+knit + b19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + f27 6
+knit + b28 6
+knit + b29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + b33 6
+knit + b34 6
+knit + f35 6
+knit + b36 6
+knit + b37 6
+knit + f38 6
+knit + b39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer f2 b2
+xfer f8 b8
+xfer b11 f11
+xfer f16 b16
+xfer b17 f17
+xfer f21 b21
+xfer b23 f23
+xfer f25 b25
+xfer b28 f28
+xfer b30 f30
+xfer b31 f31
+xfer f32 b32
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - f35 6
+knit - b34 6
+knit - b33 6
+knit - b32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - f28 6
+knit - f27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - f23 6
+knit - b22 6
+knit - b21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - f14 6
+knit - f13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - b8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer b7 f7
+xfer b8 f8
+xfer f11 b11
+xfer b12 f12
+xfer f14 b14
+xfer b16 f16
+xfer f18 b18
+xfer b19 f19
+xfer b22 f22
+xfer f23 b23
+xfer b26 f26
+xfer f28 b28
+xfer b32 f32
+xfer b33 f33
+xfer b36 f36
+xfer b37 f37
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + b4 6
+knit + b5 6
+knit + f6 6
+knit + f7 6
+knit + f8 6
+knit + f9 6
+knit + f10 6
+knit + b11 6
+knit + f12 6
+knit + f13 6
+knit + b14 6
+knit + f15 6
+knit + f16 6
+knit + f17 6
+knit + b18 6
+knit + f19 6
+knit + b20 6
+knit + b21 6
+knit + f22 6
+knit + b23 6
+knit + b24 6
+knit + b25 6
+knit + f26 6
+knit + f27 6
+knit + b28 6
+knit + b29 6
+knit + f30 6
+knit + f31 6
+knit + f32 6
+knit + f33 6
+knit + b34 6
+knit + f35 6
+knit + f36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b2 f2
+xfer b4 f4
+xfer f6 b6
+xfer f8 b8
+xfer b11 f11
+xfer f13 b13
+xfer f15 b15
+xfer f17 b17
+xfer b18 f18
+xfer f19 b19
+xfer b24 f24
+xfer b25 f25
+xfer f26 b26
+xfer f27 b27
+xfer b28 f28
+xfer f31 b31
+xfer b34 f34
+xfer f37 b37
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - f38 6
+knit - b37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - b31 6
+knit - f30 6
+knit - b29 6
+knit - f28 6
+knit - b27 6
+knit - b26 6
+knit - f25 6
+knit - f24 6
+knit - b23 6
+knit - f22 6
+knit - b21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - b15 6
+knit - b14 6
+knit - b13 6
+knit - f12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - b8 6
+knit - f7 6
+knit - b6 6
+knit - b5 6
+knit - f4 6
+knit - f3 6
+knit - f2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f3 b3
+xfer f4 b4
+xfer b5 f5
+xfer f7 b7
+xfer b8 f8
+xfer f10 b10
+xfer f11 b11
+xfer b15 f15
+xfer f18 b18
+xfer b20 f20
+xfer f22 b22
+xfer b23 f23
+xfer f24 b24
+xfer b29 f29
+xfer f34 b34
+xfer f35 b35
+xfer f38 b38
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + f2 6
+knit + b3 6
+knit + b4 6
+knit + f5 6
+knit + b6 6
+knit + b7 6
+knit + f8 6
+knit + f9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + b13 6
+knit + b14 6
+knit + f15 6
+knit + f16 6
+knit + b17 6
+knit + b18 6
+knit + b19 6
+knit + f20 6
+knit + b21 6
+knit + b22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + f30 6
+knit + b31 6
+knit + f32 6
+knit + f33 6
+knit + b34 6
+knit + b35 6
+knit + f36 6
+knit + b37 6
+knit + b38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f2 b2
+xfer b3 f3
+xfer b7 f7
+xfer f12 b12
+xfer b13 f13
+xfer f15 b15
+xfer f16 b16
+xfer b18 f18
+xfer f20 b20
+xfer b21 f21
+xfer b22 f22
+xfer f23 b23
+xfer b26 f26
+xfer f28 b28
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - b38 6
+knit - b37 6
+knit - f36 6
+knit - b35 6
+knit - b34 6
+knit - f33 6
+knit - f32 6
+knit - b31 6
+knit - f30 6
+knit - f29 6
+knit - b28 6
+knit - b27 6
+knit - f26 6
+knit - f25 6
+knit - b24 6
+knit - b23 6
+knit - f22 6
+knit - f21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - b17 6
+knit - b16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - f8 6
+knit - f7 6
+knit - b6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer b2 f2
+xfer b4 f4
+xfer f5 b5
+xfer b6 f6
+xfer f8 b8
+xfer f9 b9
+xfer b12 f12
+xfer f13 b13
+xfer b14 f14
+xfer b15 f15
+xfer b17 f17
+xfer f18 b18
+xfer b20 f20
+xfer f22 b22
+xfer b23 f23
+xfer f26 b26
+xfer b28 f28
+xfer f29 b29
+xfer b31 f31
+xfer f32 b32
+xfer f33 b33
+xfer b34 f34
+xfer b37 f37
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + f2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + f6 6
+knit + f7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + b13 6
+knit + f14 6
+knit + f15 6
+knit + b16 6
+knit + f17 6
+knit + b18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + b22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + f28 6
+knit + b29 6
+knit + f30 6
+knit + f31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + b35 6
+knit + f36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f3 b3
+xfer f4 b4
+xfer b5 f5
+xfer b8 f8
+xfer b9 f9
+xfer b10 f10
+xfer b11 f11
+xfer f12 b12
+xfer b13 f13
+xfer f15 b15
+xfer b18 f18
+xfer b19 f19
+xfer f20 b20
+xfer b22 f22
+xfer f23 b23
+xfer b27 f27
+xfer f31 b31
+xfer b33 f33
+xfer f36 b36
+xfer f37 b37
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - f34 6
+knit - f33 6
+knit - b32 6
+knit - b31 6
+knit - f30 6
+knit - b29 6
+knit - f28 6
+knit - f27 6
+knit - b26 6
+knit - f25 6
+knit - b24 6
+knit - b23 6
+knit - f22 6
+knit - f21 6
+knit - b20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - b15 6
+knit - f14 6
+knit - f13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - f8 6
+knit - f7 6
+knit - f6 6
+knit - f5 6
+knit - b4 6
+knit - b3 6
+knit - f2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b4 f4
+xfer f5 b5
+xfer f6 b6
+xfer f10 b10
+xfer f11 b11
+xfer b12 f12
+xfer f14 b14
+xfer b15 f15
+xfer b16 f16
+xfer f21 b21
+xfer b23 f23
+xfer b24 f24
+xfer f28 b28
+xfer b29 f29
+xfer b32 f32
+xfer f33 b33
+xfer f34 b34
+xfer b35 f35
+xfer b36 f36
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + b3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + f7 6
+knit + f8 6
+knit + f9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + f13 6
+knit + b14 6
+knit + f15 6
+knit + f16 6
+knit + f17 6
+knit + f18 6
+knit + f19 6
+knit + b20 6
+knit + b21 6
+knit + f22 6
+knit + f23 6
+knit + f24 6
+knit + f25 6
+knit + b26 6
+knit + f27 6
+knit + b28 6
+knit + f29 6
+knit + f30 6
+knit + b31 6
+knit + f32 6
+knit + b33 6
+knit + b34 6
+knit + f35 6
+knit + f36 6
+knit + b37 6
+knit + f38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f2 b2
+xfer f4 b4
+xfer b5 f5
+xfer f9 b9
+xfer b11 f11
+xfer f15 b15
+xfer f17 b17
+xfer f19 b19
+xfer b21 f21
+xfer f22 b22
+xfer f24 b24
+xfer f25 b25
+xfer b28 f28
+xfer f30 b30
+xfer b31 f31
+xfer b33 f33
+xfer f35 b35
+xfer b37 f37
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - b35 6
+knit - b34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - b30 6
+knit - f29 6
+knit - f28 6
+knit - f27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - f23 6
+knit - b22 6
+knit - f21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - f12 6
+knit - f11 6
+knit - b10 6
+knit - b9 6
+knit - f8 6
+knit - f7 6
+knit - b6 6
+knit - f5 6
+knit - b4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b2 f2
+xfer b3 f3
+xfer f5 b5
+xfer b6 f6
+xfer f7 b7
+xfer f8 b8
+xfer b9 f9
+xfer f13 b13
+xfer b19 f19
+xfer f21 b21
+xfer b24 f24
+xfer b26 f26
+xfer f29 b29
+xfer f32 b32
+xfer f33 b33
+xfer b34 f34
+xfer f36 b36
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + f2 6
+knit + f3 6
+knit + b4 6
+knit + b5 6
+knit + f6 6
+knit + b7 6
+knit + b8 6
+knit + f9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + b13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + b17 6
+knit + f18 6
+knit + f19 6
+knit + b20 6
+knit + b21 6
+knit + b22 6
+knit + f23 6
+knit + f24 6
+knit + b25 6
+knit + f26 6
+knit + f27 6
+knit + f28 6
+knit + b29 6
+knit + b30 6
+knit + f31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + b35 6
+knit + b36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer f3 b3
+xfer b5 f5
+xfer b7 f7
+xfer b8 f8
+xfer f11 b11
+xfer b13 f13
+xfer f16 b16
+xfer b20 f20
+xfer b21 f21
+xfer f23 b23
+xfer f24 b24
+xfer f27 b27
+xfer f28 b28
+xfer b30 f30
+xfer b33 f33
+xfer f34 b34
+xfer f37 b37
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - b34 6
+knit - f33 6
+knit - b32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - b27 6
+knit - f26 6
+knit - b25 6
+knit - b24 6
+knit - b23 6
+knit - b22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - f18 6
+knit - b17 6
+knit - b16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - f8 6
+knit - f7 6
+knit - f6 6
+knit - f5 6
+knit - b4 6
+knit - b3 6
+knit - f2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b3 f3
+xfer f5 b5
+xfer f6 b6
+xfer f9 b9
+xfer b10 f10
+xfer f12 b12
+xfer f13 b13
+xfer b16 f16
+xfer f20 b20
+xfer b24 f24
+xfer b25 f25
+xfer b27 f27
+xfer b28 f28
+xfer b29 f29
+xfer f30 b30
+xfer f31 b31
+xfer b32 f32
+xfer b34 f34
+xfer f38 b38
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + f3 6
+knit + b4 6
+knit + b5 6
+knit + b6 6
+knit + f7 6
+knit + f8 6
+knit + b9 6
+knit + f10 6
+knit + b11 6
+knit + b12 6
+knit + b13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + b17 6
+knit + f18 6
+knit + f19 6
+knit + b20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + f24 6
+knit + f25 6
+knit + f26 6
+knit + f27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + b36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f2 b2
+xfer f3 b3
+xfer b4 f4
+xfer b5 f5
+xfer b6 f6
+xfer f7 b7
+xfer f8 b8
+xfer b9 f9
+xfer b11 f11
+xfer b12 f12
+xfer f16 b16
+xfer b22 f22
+xfer b23 f23
+xfer f26 b26
+xfer f27 b27
+xfer b31 f31
+xfer f33 b33
+xfer f34 b34
+xfer b35 f35
+xfer b36 f36
+xfer b37 f37
+xfer b38 f38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - f35 6
+knit - b34 6
+knit - b33 6
+knit - f32 6
+knit - f31 6
+knit - b30 6
+knit - f29 6
+knit - f28 6
+knit - b27 6
+knit - b26 6
+knit - f25 6
+knit - f24 6
+knit - f23 6
+knit - f22 6
+knit - f21 6
+knit - b20 6
+knit - f19 6
+knit - f18 6
+knit - b17 6
+knit - b16 6
+knit - b15 6
+knit - b14 6
+knit - b13 6
+knit - f12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - b8 6
+knit - b7 6
+knit - f6 6
+knit - f5 6
+knit - f4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer f4 b4
+xfer f5 b5
+xfer b8 f8
+xfer f9 b9
+xfer f10 b10
+xfer f11 b11
+xfer f12 b12
+xfer b13 f13
+xfer b14 f14
+xfer f18 b18
+xfer f19 b19
+xfer b20 f20
+xfer f21 b21
+xfer f22 b22
+xfer f24 b24
+xfer f25 b25
+xfer b27 f27
+xfer f29 b29
+xfer f31 b31
+xfer b33 f33
+xfer b34 f34
+xfer f35 b35
+xfer f38 b38
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + f2 6
+knit + b3 6
+knit + b4 6
+knit + b5 6
+knit + f6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + b15 6
+knit + b16 6
+knit + b17 6
+knit + b18 6
+knit + b19 6
+knit + f20 6
+knit + b21 6
+knit + b22 6
+knit + f23 6
+knit + b24 6
+knit + b25 6
+knit + b26 6
+knit + f27 6
+knit + f28 6
+knit + b29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + f36 6
+knit + f37 6
+knit + b38 6
+knit + b39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b5 f5
+xfer f6 b6
+xfer b7 f7
+xfer b10 f10
+xfer b11 f11
+xfer f14 b14
+xfer b16 f16
+xfer b18 f18
+xfer b19 f19
+xfer b21 f21
+xfer f23 b23
+xfer f27 b27
+xfer f28 b28
+xfer b29 f29
+xfer b30 f30
+xfer b31 f31
+xfer f32 b32
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - b38 6
+knit - f37 6
+knit - f36 6
+knit - b35 6
+knit - f34 6
+knit - f33 6
+knit - b32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - b28 6
+knit - b27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - b23 6
+knit - b22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - b9 6
+knit - f8 6
+knit - f7 6
+knit - b6 6
+knit - f5 6
+knit - b4 6
+knit - b3 6
+knit - f2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f2 b2
+xfer b3 f3
+xfer b6 f6
+xfer f8 b8
+xfer f10 b10
+xfer b14 f14
+xfer b15 f15
+xfer f18 b18
+xfer f20 b20
+xfer b23 f23
+xfer b24 f24
+xfer b27 f27
+xfer b28 f28
+xfer f29 b29
+xfer f30 b30
+xfer f31 b31
+xfer b32 f32
+xfer f40 b40
+x-speed-number 100
+x-roller-advance 0
+x-roller-advance 0
+xfer b1 f1
+xfer b2 f2
+xfer f5 b5
+xfer f6 b6
+xfer b8 f8
+xfer b9 f9
+xfer b10 f10
+xfer b12 f12
+xfer f15 b15
+xfer f16 b16
+xfer f21 b21
+xfer f23 b23
+xfer f24 b24
+xfer b25 f25
+xfer f28 b28
+xfer b30 f30
+xfer b31 f31
+xfer f32 b32
+xfer f33 b33
+xfer f34 b34
+xfer b38 f38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 450
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + b4 2
+knit + b5 2
+knit + b6 2
+knit + f7 2
+knit + f8 2
+knit + f9 2
+knit + f10 2
+knit + f11 2
+knit + f12 2
+knit + f13 2
+knit + f14 2
+knit + b15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + b21 2
+knit + b22 2
+knit + b23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + b29 2
+knit + f30 2
+knit + f31 2
+knit + b32 2
+knit + b33 2
+knit + b34 2
+knit + b35 2
+knit + f36 2
+knit + f37 2
+knit + f38 2
+knit + b39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f2 b2
+xfer b4 f4
+xfer b6 f6
+xfer f9 b9
+xfer f10 b10
+xfer f12 b12
+xfer b18 f18
+xfer f19 b19
+xfer b22 f22
+xfer f25 b25
+xfer f27 b27
+xfer f30 b30
+xfer f31 b31
+xfer b34 f34
+xfer f36 b36
+xfer f38 b38
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - f39 2
+knit - b38 2
+knit - f37 2
+knit - b36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - b32 2
+knit - b31 2
+knit - b30 2
+knit - b29 2
+knit - b28 2
+knit - b27 2
+knit - b26 2
+knit - b25 2
+knit - b24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - b20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - b16 2
+knit - b15 2
+knit - f14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - b9 2
+knit - f8 2
+knit - f7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - f3 2
+knit - b2 2
+knit - f1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer b5 f5
+xfer b9 f9
+xfer f11 b11
+xfer f14 b14
+xfer b15 f15
+xfer f18 b18
+xfer b19 f19
+xfer b20 f20
+xfer f22 b22
+xfer b23 f23
+xfer b24 f24
+xfer b25 f25
+xfer b27 f27
+xfer b28 f28
+xfer b29 f29
+xfer b30 f30
+xfer b33 f33
+xfer f34 b34
+xfer b35 f35
+xfer b36 f36
+xfer f37 b37
+xfer b38 f38
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + f4 2
+knit + f5 2
+knit + f6 2
+knit + f7 2
+knit + f8 2
+knit + f9 2
+knit + b10 2
+knit + b11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + f19 2
+knit + f20 2
+knit + b21 2
+knit + b22 2
+knit + f23 2
+knit + f24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + f28 2
+knit + f29 2
+knit + f30 2
+knit + b31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + f36 2
+knit + b37 2
+knit + f38 2
+knit + b39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f2 b2
+xfer f4 b4
+xfer f5 b5
+xfer f7 b7
+xfer f8 b8
+xfer f9 b9
+xfer b10 f10
+xfer f13 b13
+xfer b14 f14
+xfer f15 b15
+xfer b16 f16
+xfer b17 f17
+xfer b18 f18
+xfer f20 b20
+xfer b21 f21
+xfer f23 b23
+xfer f24 b24
+xfer f25 b25
+xfer f27 b27
+xfer f29 b29
+xfer f30 b30
+xfer b34 f34
+xfer b37 f37
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - b39 2
+knit - b38 2
+knit - f37 2
+knit - f36 2
+knit - f35 2
+knit - f34 2
+knit - f33 2
+knit - b32 2
+knit - b31 2
+knit - b30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - b26 2
+knit - b25 2
+knit - b24 2
+knit - b23 2
+knit - b22 2
+knit - f21 2
+knit - b20 2
+knit - f19 2
+knit - f18 2
+knit - f17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - b12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - b8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - b4 2
+knit - f3 2
+knit - b2 2
+knit - f1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer b4 f4
+xfer b5 f5
+xfer f6 b6
+xfer b7 f7
+xfer b8 f8
+xfer b9 f9
+xfer b11 f11
+xfer b12 f12
+xfer b13 f13
+xfer f14 b14
+xfer b15 f15
+xfer f16 b16
+xfer f17 b17
+xfer f18 b18
+xfer f19 b19
+xfer f21 b21
+xfer b24 f24
+xfer b29 f29
+xfer b31 f31
+xfer b32 f32
+xfer f33 b33
+xfer f35 b35
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + f4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + f8 2
+knit + f9 2
+knit + f10 2
+knit + f11 2
+knit + f12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + b19 2
+knit + b20 2
+knit + b21 2
+knit + b22 2
+knit + b23 2
+knit + f24 2
+knit + b25 2
+knit + b26 2
+knit + b27 2
+knit + f28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + f32 2
+knit + b33 2
+knit + f34 2
+knit + b35 2
+knit + f36 2
+knit + f37 2
+knit + b38 2
+knit + b39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f3 b3
+xfer f5 b5
+xfer f7 b7
+xfer f8 b8
+xfer f10 b10
+xfer f13 b13
+xfer b14 f14
+xfer b18 f18
+xfer b19 f19
+xfer b21 f21
+xfer b26 f26
+xfer b27 f27
+xfer b30 f30
+xfer b35 f35
+xfer f36 b36
+xfer b38 f38
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - f39 2
+knit - f38 2
+knit - f37 2
+knit - b36 2
+knit - f35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - f31 2
+knit - f30 2
+knit - f29 2
+knit - f28 2
+knit - f27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - b22 2
+knit - f21 2
+knit - b20 2
+knit - f19 2
+knit - f18 2
+knit - b17 2
+knit - b16 2
+knit - f15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - b7 2
+knit - b6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - f1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer b3 f3
+xfer b6 f6
+xfer b10 f10
+xfer f14 b14
+xfer f15 b15
+xfer b17 f17
+xfer f19 b19
+xfer b20 f20
+xfer b23 f23
+xfer f24 b24
+xfer b25 f25
+xfer f30 b30
+xfer f31 b31
+xfer b33 f33
+xfer f35 b35
+xfer f38 b38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + b1 2
+knit + f2 2
+knit + f3 2
+knit + f4 2
+knit + b5 2
+knit + f6 2
+knit + b7 2
+knit + b8 2
+knit + f9 2
+knit + f10 2
+knit + f11 2
+knit + f12 2
+knit + b13 2
+knit + b14 2
+knit + b15 2
+knit + b16 2
+knit + f17 2
+knit + f18 2
+knit + b19 2
+knit + f20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + f26 2
+knit + f27 2
+knit + f28 2
+knit + f29 2
+knit + b30 2
+knit + b31 2
+knit + f32 2
+knit + f33 2
+knit + f34 2
+knit + b35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f2 b2
+xfer f4 b4
+xfer f10 b10
+xfer f12 b12
+xfer b15 f15
+xfer f17 b17
+xfer f21 b21
+xfer f23 b23
+xfer b24 f24
+xfer f25 b25
+xfer f27 b27
+xfer f28 b28
+xfer f29 b29
+xfer b30 f30
+xfer b31 f31
+xfer f32 b32
+xfer b36 f36
+xfer b38 f38
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - f37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - f33 2
+knit - b32 2
+knit - f31 2
+knit - f30 2
+knit - b29 2
+knit - b28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - b22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - b16 2
+knit - f15 2
+knit - b14 2
+knit - b13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - b4 2
+knit - f3 2
+knit - b2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b2 f2
+xfer b4 f4
+xfer b5 f5
+xfer f6 b6
+xfer b7 f7
+xfer f9 b9
+xfer b10 f10
+xfer f11 b11
+xfer b13 f13
+xfer f15 b15
+xfer b16 f16
+xfer f18 b18
+xfer b19 f19
+xfer f20 b20
+xfer b22 f22
+xfer b25 f25
+xfer f26 b26
+xfer b32 f32
+xfer f36 b36
+xfer f37 b37
+xfer f38 b38
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + f4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + b11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + b15 2
+knit + f16 2
+knit + b17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + b21 2
+knit + f22 2
+knit + b23 2
+knit + f24 2
+knit + f25 2
+knit + b26 2
+knit + b27 2
+knit + b28 2
+knit + b29 2
+knit + f30 2
+knit + f31 2
+knit + f32 2
+knit + f33 2
+knit + f34 2
+knit + b35 2
+knit + b36 2
+knit + b37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f2 b2
+xfer f4 b4
+xfer f7 b7
+xfer b8 f8
+xfer b9 f9
+xfer f10 b10
+xfer b14 f14
+xfer b15 f15
+xfer b17 f17
+xfer f22 b22
+xfer f24 b24
+xfer f25 b25
+xfer b26 f26
+xfer b28 f28
+xfer f32 b32
+xfer b36 f36
+xfer b37 f37
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - b39 2
+knit - b38 2
+knit - f37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - f33 2
+knit - b32 2
+knit - f31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - b24 2
+knit - b23 2
+knit - b22 2
+knit - b21 2
+knit - b20 2
+knit - f19 2
+knit - b18 2
+knit - f17 2
+knit - f16 2
+knit - f15 2
+knit - f14 2
+knit - f13 2
+knit - b12 2
+knit - b11 2
+knit - b10 2
+knit - f9 2
+knit - f8 2
+knit - b7 2
+knit - b6 2
+knit - f5 2
+knit - b4 2
+knit - f3 2
+knit - b2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer f5 b5
+xfer b7 f7
+xfer b10 f10
+xfer b11 f11
+xfer b12 f12
+xfer f15 b15
+xfer f16 b16
+xfer f17 b17
+xfer b25 f25
+xfer f26 b26
+xfer b27 f27
+xfer f28 b28
+xfer f33 b33
+xfer f34 b34
+xfer b38 f38
+x-stitch-number 4
+x-speed-number 400
+rack 0
+x-roller-advance 300
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+x-speed-number 100
+x-roller-advance 0
+xfer f0 b0
+xfer b1 f1
+xfer b2 f2
+xfer b3 f3
+xfer b4 f4
+xfer b5 f5
+xfer b6 f6
+xfer f7 b7
+xfer f8 b8
+xfer b9 f9
+xfer b10 f10
+xfer b11 f11
+xfer f12 b12
+xfer f13 b13
+xfer b14 f14
+xfer b15 f15
+xfer f16 b16
+xfer f17 b17
+xfer b18 f18
+xfer f19 b19
+xfer b20 f20
+xfer b21 f21
+xfer b22 f22
+xfer b23 f23
+xfer b24 f24
+xfer b25 f25
+xfer b26 f26
+xfer f27 b27
+xfer b28 f28
+xfer b29 f29
+xfer b30 f30
+xfer f31 b31
+xfer b32 f32
+xfer b33 f33
+xfer b34 f34
+xfer b35 f35
+xfer b36 f36
+xfer f37 b37
+xfer b38 f38
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 450
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + f4 2
+knit + f5 2
+knit + f6 2
+knit + b7 2
+knit + b8 2
+knit + f9 2
+knit + f10 2
+knit + f11 2
+knit + b12 2
+knit + b13 2
+knit + f14 2
+knit + f15 2
+knit + b16 2
+knit + b17 2
+knit + f18 2
+knit + b19 2
+knit + f20 2
+knit + f21 2
+knit + f22 2
+knit + f23 2
+knit + f24 2
+knit + f25 2
+knit + f26 2
+knit + b27 2
+knit + f28 2
+knit + f29 2
+knit + f30 2
+knit + b31 2
+knit + f32 2
+knit + f33 2
+knit + f34 2
+knit + f35 2
+knit + f36 2
+knit + b37 2
+knit + f38 2
+knit + f39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer f2 b2
+xfer f3 b3
+xfer f5 b5
+xfer f6 b6
+xfer f10 b10
+xfer f11 b11
+xfer b12 f12
+xfer b16 f16
+xfer b17 f17
+xfer f18 b18
+xfer f20 b20
+xfer f21 b21
+xfer f22 b22
+xfer f24 b24
+xfer f26 b26
+xfer f28 b28
+xfer f29 b29
+xfer b31 f31
+xfer b37 f37
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - f39 2
+knit - f38 2
+knit - f37 2
+knit - f36 2
+knit - f35 2
+knit - f34 2
+knit - f33 2
+knit - f32 2
+knit - f31 2
+knit - f30 2
+knit - b29 2
+knit - b28 2
+knit - b27 2
+knit - b26 2
+knit - f25 2
+knit - b24 2
+knit - f23 2
+knit - b22 2
+knit - b21 2
+knit - b20 2
+knit - b19 2
+knit - b18 2
+knit - f17 2
+knit - f16 2
+knit - f15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - b7 2
+knit - b6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - b2 2
+knit - b1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer b5 f5
+xfer b6 f6
+xfer b7 f7
+xfer f9 b9
+xfer b10 f10
+xfer f14 b14
+xfer f15 b15
+xfer b18 f18
+xfer f32 b32
+xfer f34 b34
+xfer f35 b35
+xfer f36 b36
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + b1 2
+knit + f2 2
+knit + b3 2
+knit + f4 2
+knit + f5 2
+knit + f6 2
+knit + f7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + b11 2
+knit + f12 2
+knit + b13 2
+knit + b14 2
+knit + b15 2
+knit + f16 2
+knit + f17 2
+knit + f18 2
+knit + b19 2
+knit + b20 2
+knit + b21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + b27 2
+knit + b28 2
+knit + b29 2
+knit + f30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + b35 2
+knit + b36 2
+knit + f37 2
+knit + f38 2
+knit + b39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f4 b4
+xfer f6 b6
+xfer b9 f9
+xfer f10 b10
+xfer b11 f11
+xfer b13 f13
+xfer b15 f15
+xfer f16 b16
+xfer f17 b17
+xfer f18 b18
+xfer b19 f19
+xfer b21 f21
+xfer b24 f24
+xfer f25 b25
+xfer b26 f26
+xfer b27 f27
+xfer b29 f29
+xfer f31 b31
+xfer b32 f32
+xfer b34 f34
+xfer f38 b38
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - f39 2
+knit - b38 2
+knit - f37 2
+knit - b36 2
+knit - b35 2
+knit - f34 2
+knit - f33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - f29 2
+knit - b28 2
+knit - f27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - f23 2
+knit - b22 2
+knit - f21 2
+knit - b20 2
+knit - f19 2
+knit - b18 2
+knit - b17 2
+knit - b16 2
+knit - f15 2
+knit - b14 2
+knit - f13 2
+knit - f12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - f7 2
+knit - b6 2
+knit - f5 2
+knit - b4 2
+knit - b3 2
+knit - f2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer b4 f4
+xfer f5 b5
+xfer b6 f6
+xfer f7 b7
+xfer f9 b9
+xfer b10 f10
+xfer f11 b11
+xfer f12 b12
+xfer f15 b15
+xfer f19 b19
+xfer f23 b23
+xfer f26 b26
+xfer f33 b33
+xfer b36 f36
+xfer f37 b37
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + b1 2
+knit + f2 2
+knit + b3 2
+knit + f4 2
+knit + b5 2
+knit + f6 2
+knit + b7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + b11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + b15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + b19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + b23 2
+knit + f24 2
+knit + b25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + f30 2
+knit + b31 2
+knit + f32 2
+knit + b33 2
+knit + f34 2
+knit + b35 2
+knit + f36 2
+knit + b37 2
+knit + b38 2
+knit + f39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f2 b2
+xfer f6 b6
+xfer b7 f7
+xfer b9 f9
+xfer f10 b10
+xfer b11 f11
+xfer b14 f14
+xfer b15 f15
+xfer b16 f16
+xfer b17 f17
+xfer b22 f22
+xfer f24 b24
+xfer b25 f25
+xfer b26 f26
+xfer b28 f28
+xfer f30 b30
+xfer f32 b32
+xfer b35 f35
+xfer f36 b36
+xfer b37 f37
+xfer b38 f38
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - f39 2
+knit - f38 2
+knit - f37 2
+knit - b36 2
+knit - f35 2
+knit - f34 2
+knit - b33 2
+knit - b32 2
+knit - b31 2
+knit - b30 2
+knit - f29 2
+knit - f28 2
+knit - f27 2
+knit - f26 2
+knit - f25 2
+knit - b24 2
+knit - b23 2
+knit - f22 2
+knit - f21 2
+knit - b20 2
+knit - b19 2
+knit - b18 2
+knit - f17 2
+knit - f16 2
+knit - f15 2
+knit - f14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - f7 2
+knit - b6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - b2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer f7 b7
+xfer f9 b9
+xfer f11 b11
+xfer f14 b14
+xfer f15 b15
+xfer f17 b17
+xfer b18 f18
+xfer b23 f23
+xfer f25 b25
+xfer f27 b27
+xfer f28 b28
+xfer f29 b29
+xfer b30 f30
+xfer b33 f33
+xfer f34 b34
+xfer b36 f36
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 2
+knit + b1 2
+knit + b2 2
+knit + b3 2
+knit + f4 2
+knit + b5 2
+knit + b6 2
+knit + b7 2
+knit + b8 2
+knit + b9 2
+knit + b10 2
+knit + b11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + b15 2
+knit + f16 2
+knit + b17 2
+knit + f18 2
+knit + b19 2
+knit + b20 2
+knit + f21 2
+knit + f22 2
+knit + f23 2
+knit + b24 2
+knit + b25 2
+knit + f26 2
+knit + b27 2
+knit + b28 2
+knit + b29 2
+knit + f30 2
+knit + b31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + f36 2
+knit + f37 2
+knit + f38 2
+knit + b39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b3 f3
+xfer b6 f6
+xfer b8 f8
+xfer b9 f9
+xfer b11 f11
+xfer f13 b13
+xfer b14 f14
+xfer f18 b18
+xfer b19 f19
+xfer f23 b23
+xfer b24 f24
+xfer b25 f25
+xfer b27 f27
+xfer b29 f29
+xfer b32 f32
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - f39 2
+knit - f38 2
+knit - f37 2
+knit - f36 2
+knit - f35 2
+knit - b34 2
+knit - f33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - f29 2
+knit - b28 2
+knit - f27 2
+knit - f26 2
+knit - f25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - f21 2
+knit - b20 2
+knit - f19 2
+knit - b18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - f3 2
+knit - b2 2
+knit - b1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f3 b3
+xfer f8 b8
+xfer f9 b9
+xfer b10 f10
+xfer f11 b11
+xfer b13 f13
+xfer f14 b14
+xfer f16 b16
+xfer f19 b19
+xfer f22 b22
+xfer b23 f23
+xfer f24 b24
+xfer f25 b25
+xfer f27 b27
+xfer f29 b29
+xfer f30 b30
+xfer b31 f31
+xfer f32 b32
+xfer f36 b36
+xfer f37 b37
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + b3 2
+knit + f4 2
+knit + b5 2
+knit + f6 2
+knit + b7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + b11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + b15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + b19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + b25 2
+knit + f26 2
+knit + b27 2
+knit + b28 2
+knit + b29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + b37 2
+knit + f38 2
+knit + b39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b2 f2
+xfer f4 b4
+xfer b7 f7
+xfer b9 f9
+xfer f10 b10
+xfer b11 f11
+xfer b12 f12
+xfer b15 f15
+xfer b16 f16
+xfer b19 f19
+xfer b24 f24
+xfer b27 f27
+xfer b28 f28
+xfer b29 f29
+xfer b30 f30
+xfer f31 b31
+xfer f33 b33
+xfer b34 f34
+xfer b36 f36
+xfer b37 f37
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - b39 2
+knit - b38 2
+knit - f37 2
+knit - f36 2
+knit - f35 2
+knit - f34 2
+knit - b33 2
+knit - b32 2
+knit - b31 2
+knit - f30 2
+knit - f29 2
+knit - f28 2
+knit - f27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - f23 2
+knit - b22 2
+knit - f21 2
+knit - b20 2
+knit - f19 2
+knit - b18 2
+knit - b17 2
+knit - f16 2
+knit - f15 2
+knit - b14 2
+knit - f13 2
+knit - f12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - f7 2
+knit - f6 2
+knit - b5 2
+knit - b4 2
+knit - b3 2
+knit - f2 2
+knit - f1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b3 f3
+xfer b4 f4
+xfer b5 f5
+xfer f7 b7
+xfer b10 f10
+xfer f12 b12
+xfer f13 b13
+xfer b14 f14
+xfer f16 b16
+xfer b18 f18
+xfer f19 b19
+xfer b20 f20
+xfer b22 f22
+xfer b25 f25
+xfer f27 b27
+xfer b32 f32
+xfer b33 f33
+xfer f37 b37
+xfer b38 f38
+xfer b39 f39
+x-speed-number 100
+x-roller-advance 0
+x-roller-advance 0
+xfer b0 f0
+xfer f6 b6
+xfer b8 f8
+xfer f9 b9
+xfer f10 b10
+xfer b13 f13
+xfer f15 b15
+xfer f21 b21
+xfer f22 b22
+xfer f24 b24
+xfer f25 b25
+xfer b27 f27
+xfer b31 f31
+xfer f32 b32
+xfer f33 b33
+xfer f35 b35
+xfer b37 f37
+xfer f38 b38
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 450
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + f2 6
+knit + f3 6
+knit + f4 6
+knit + f5 6
+knit + b6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + b15 6
+knit + b16 6
+knit + b17 6
+knit + f18 6
+knit + b19 6
+knit + f20 6
+knit + b21 6
+knit + b22 6
+knit + f23 6
+knit + b24 6
+knit + b25 6
+knit + f26 6
+knit + f27 6
+knit + f28 6
+knit + f29 6
+knit + f30 6
+knit + f31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + b35 6
+knit + f36 6
+knit + f37 6
+knit + b38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f2 b2
+xfer f4 b4
+xfer f8 b8
+xfer f11 b11
+xfer b12 f12
+xfer f13 b13
+xfer f14 b14
+xfer b19 f19
+xfer f20 b20
+xfer b22 f22
+xfer b25 f25
+xfer f27 b27
+xfer f29 b29
+xfer f30 b30
+xfer b33 f33
+xfer f34 b34
+xfer b35 f35
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - f35 6
+knit - b34 6
+knit - f33 6
+knit - b32 6
+knit - f31 6
+knit - b30 6
+knit - b29 6
+knit - f28 6
+knit - b27 6
+knit - f26 6
+knit - f25 6
+knit - b24 6
+knit - f23 6
+knit - f22 6
+knit - b21 6
+knit - b20 6
+knit - f19 6
+knit - f18 6
+knit - b17 6
+knit - b16 6
+knit - b15 6
+knit - b14 6
+knit - b13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - b9 6
+knit - b8 6
+knit - b7 6
+knit - b6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer b4 f4
+xfer f5 b5
+xfer b7 f7
+xfer b9 f9
+xfer b10 f10
+xfer b11 f11
+xfer b20 f20
+xfer b24 f24
+xfer f25 b25
+xfer f26 b26
+xfer b29 f29
+xfer f33 b33
+xfer b34 f34
+xfer f37 b37
+xfer f38 b38
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + f7 6
+knit + b8 6
+knit + f9 6
+knit + f10 6
+knit + f11 6
+knit + f12 6
+knit + b13 6
+knit + b14 6
+knit + b15 6
+knit + b16 6
+knit + b17 6
+knit + f18 6
+knit + f19 6
+knit + f20 6
+knit + b21 6
+knit + f22 6
+knit + f23 6
+knit + f24 6
+knit + b25 6
+knit + b26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + f31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + f35 6
+knit + f36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b2 f2
+xfer f3 b3
+xfer f4 b4
+xfer f7 b7
+xfer b8 f8
+xfer b13 f13
+xfer b15 f15
+xfer b17 f17
+xfer f19 b19
+xfer f23 b23
+xfer f24 b24
+xfer b26 f26
+xfer f29 b29
+xfer f31 b31
+xfer b32 f32
+xfer b38 f38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - b33 6
+knit - f32 6
+knit - b31 6
+knit - b30 6
+knit - b29 6
+knit - f28 6
+knit - b27 6
+knit - f26 6
+knit - b25 6
+knit - b24 6
+knit - b23 6
+knit - f22 6
+knit - b21 6
+knit - f20 6
+knit - b19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - b14 6
+knit - f13 6
+knit - f12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - f8 6
+knit - b7 6
+knit - b6 6
+knit - b5 6
+knit - b4 6
+knit - b3 6
+knit - f2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer b3 f3
+xfer b7 f7
+xfer f9 b9
+xfer f10 b10
+xfer f11 b11
+xfer f15 b15
+xfer f18 b18
+xfer b21 f21
+xfer f22 b22
+xfer b24 f24
+xfer b25 f25
+xfer f26 b26
+xfer b27 f27
+xfer f28 b28
+xfer b30 f30
+xfer b31 f31
+xfer f32 b32
+xfer b33 f33
+xfer f35 b35
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + b4 6
+knit + b5 6
+knit + b6 6
+knit + f7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + f13 6
+knit + b14 6
+knit + b15 6
+knit + b16 6
+knit + f17 6
+knit + b18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + f24 6
+knit + f25 6
+knit + b26 6
+knit + f27 6
+knit + b28 6
+knit + b29 6
+knit + f30 6
+knit + f31 6
+knit + b32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + f36 6
+knit + b37 6
+knit + f38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer f3 b3
+xfer b4 f4
+xfer b5 f5
+xfer b6 f6
+xfer f7 b7
+xfer b9 f9
+xfer f12 b12
+xfer f13 b13
+xfer b15 f15
+xfer b16 f16
+xfer f17 b17
+xfer b18 f18
+xfer f20 b20
+xfer b23 f23
+xfer b26 f26
+xfer f30 b30
+xfer f31 b31
+xfer b32 f32
+xfer f33 b33
+xfer b35 f35
+xfer b37 f37
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - b33 6
+knit - f32 6
+knit - b31 6
+knit - b30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - f26 6
+knit - f25 6
+knit - f24 6
+knit - f23 6
+knit - b22 6
+knit - f21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - f15 6
+knit - b14 6
+knit - b13 6
+knit - b12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - f8 6
+knit - b7 6
+knit - f6 6
+knit - f5 6
+knit - f4 6
+knit - b3 6
+knit - f2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f2 b2
+xfer b3 f3
+xfer f5 b5
+xfer f6 b6
+xfer b7 f7
+xfer f8 b8
+xfer f9 b9
+xfer b12 f12
+xfer b13 f13
+xfer f15 b15
+xfer f18 b18
+xfer b20 f20
+xfer f21 b21
+xfer f23 b23
+xfer f25 b25
+xfer f26 b26
+xfer b29 f29
+xfer f34 b34
+xfer f37 b37
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + f7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + f13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + b17 6
+knit + b18 6
+knit + b19 6
+knit + f20 6
+knit + b21 6
+knit + b22 6
+knit + b23 6
+knit + f24 6
+knit + b25 6
+knit + b26 6
+knit + f27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + b33 6
+knit + b34 6
+knit + f35 6
+knit + f36 6
+knit + b37 6
+knit + f38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b1 f1
+xfer b2 f2
+xfer f3 b3
+xfer f4 b4
+xfer b8 f8
+xfer b10 f10
+xfer b11 f11
+xfer f12 b12
+xfer f13 b13
+xfer b15 f15
+xfer f16 b16
+xfer b23 f23
+xfer f24 b24
+xfer b25 f25
+xfer b26 f26
+xfer f29 b29
+xfer b30 f30
+xfer b31 f31
+xfer f32 b32
+xfer f36 b36
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - f35 6
+knit - b34 6
+knit - b33 6
+knit - b32 6
+knit - f31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - f26 6
+knit - f25 6
+knit - b24 6
+knit - f23 6
+knit - b22 6
+knit - b21 6
+knit - f20 6
+knit - b19 6
+knit - b18 6
+knit - b17 6
+knit - b16 6
+knit - f15 6
+knit - b14 6
+knit - b13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - b9 6
+knit - f8 6
+knit - f7 6
+knit - b6 6
+knit - b5 6
+knit - b4 6
+knit - b3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b3 f3
+xfer b4 f4
+xfer b6 f6
+xfer f7 b7
+xfer f8 b8
+xfer f10 b10
+xfer b12 f12
+xfer b13 f13
+xfer b16 f16
+xfer b21 f21
+xfer f23 b23
+xfer f30 b30
+xfer f31 b31
+xfer b32 f32
+xfer b37 f37
+xfer f38 b38
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + f1 6
+knit + f2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + f6 6
+knit + b7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + f13 6
+knit + b14 6
+knit + f15 6
+knit + f16 6
+knit + b17 6
+knit + b18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + f25 6
+knit + f26 6
+knit + f27 6
+knit + b28 6
+knit + b29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + b33 6
+knit + b34 6
+knit + f35 6
+knit + b36 6
+knit + f37 6
+knit + b38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer b5 f5
+xfer f6 b6
+xfer b8 f8
+xfer f11 b11
+xfer f12 b12
+xfer f13 b13
+xfer f15 b15
+xfer b17 f17
+xfer b18 f18
+xfer f21 b21
+xfer b24 f24
+xfer f25 b25
+xfer f26 b26
+xfer f27 b27
+xfer b28 f28
+xfer b33 f33
+xfer b34 f34
+xfer b36 f36
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - b38 6
+knit - f37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - b31 6
+knit - b30 6
+knit - b29 6
+knit - f28 6
+knit - b27 6
+knit - b26 6
+knit - b25 6
+knit - f24 6
+knit - b23 6
+knit - b22 6
+knit - b21 6
+knit - f20 6
+knit - b19 6
+knit - f18 6
+knit - f17 6
+knit - f16 6
+knit - b15 6
+knit - b14 6
+knit - b13 6
+knit - b12 6
+knit - b11 6
+knit - b10 6
+knit - b9 6
+knit - f8 6
+knit - b7 6
+knit - b6 6
+knit - f5 6
+knit - f4 6
+knit - f3 6
+knit - f2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f2 b2
+xfer f3 b3
+xfer f5 b5
+xfer b6 f6
+xfer b10 f10
+xfer b11 f11
+xfer b13 f13
+xfer b14 f14
+xfer f18 b18
+xfer b19 f19
+xfer f20 b20
+xfer b21 f21
+xfer b22 f22
+xfer b23 f23
+xfer b25 f25
+xfer b26 f26
+xfer f28 b28
+xfer b29 f29
+xfer f32 b32
+xfer f33 b33
+xfer f36 b36
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + b2 6
+knit + b3 6
+knit + f4 6
+knit + b5 6
+knit + f6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + f10 6
+knit + f11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + b15 6
+knit + f16 6
+knit + f17 6
+knit + b18 6
+knit + f19 6
+knit + b20 6
+knit + f21 6
+knit + f22 6
+knit + f23 6
+knit + f24 6
+knit + f25 6
+knit + f26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + f35 6
+knit + b36 6
+knit + f37 6
+knit + b38 6
+knit + b39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer b3 f3
+xfer f4 b4
+xfer f6 b6
+xfer f11 b11
+xfer f13 b13
+xfer f16 b16
+xfer b18 f18
+xfer b20 f20
+xfer f23 b23
+xfer f24 b24
+xfer f26 b26
+xfer b27 f27
+xfer f29 b29
+xfer b30 f30
+xfer b33 f33
+xfer b36 f36
+xfer b38 f38
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - f33 6
+knit - b32 6
+knit - b31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - b26 6
+knit - f25 6
+knit - b24 6
+knit - b23 6
+knit - f22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - b15 6
+knit - f14 6
+knit - b13 6
+knit - b12 6
+knit - b11 6
+knit - f10 6
+knit - b9 6
+knit - f8 6
+knit - b7 6
+knit - b6 6
+knit - b5 6
+knit - b4 6
+knit - f3 6
+knit - b2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b4 f4
+xfer b6 f6
+xfer b7 f7
+xfer f8 b8
+xfer f10 b10
+xfer b11 f11
+xfer b12 f12
+xfer b13 f13
+xfer f14 b14
+xfer b15 f15
+xfer b16 f16
+xfer f21 b21
+xfer b23 f23
+xfer f27 b27
+xfer b29 f29
+xfer b32 f32
+xfer f34 b34
+xfer f35 b35
+xfer f36 b36
+xfer f37 b37
+xfer f38 b38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + f6 6
+knit + f7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + f13 6
+knit + b14 6
+knit + f15 6
+knit + f16 6
+knit + f17 6
+knit + f18 6
+knit + f19 6
+knit + f20 6
+knit + b21 6
+knit + f22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + f30 6
+knit + b31 6
+knit + f32 6
+knit + f33 6
+knit + b34 6
+knit + b35 6
+knit + b36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer f11 b11
+xfer f13 b13
+xfer b14 f14
+xfer f16 b16
+xfer f17 b17
+xfer f19 b19
+xfer f20 b20
+xfer f22 b22
+xfer f25 b25
+xfer b27 f27
+xfer b31 f31
+xfer b34 f34
+xfer b36 f36
+xfer b37 f37
+xfer b38 f38
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - b35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - b28 6
+knit - f27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - f23 6
+knit - b22 6
+knit - b21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - b17 6
+knit - b16 6
+knit - f15 6
+knit - f14 6
+knit - b13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - b9 6
+knit - b8 6
+knit - f7 6
+knit - f6 6
+knit - b5 6
+knit - f4 6
+knit - f3 6
+knit - f2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f4 b4
+xfer b8 f8
+xfer b9 f9
+xfer b11 f11
+xfer b13 f13
+xfer b16 f16
+xfer b17 f17
+xfer b20 f20
+xfer f23 b23
+xfer b24 f24
+xfer b25 f25
+xfer b28 f28
+xfer f30 b30
+xfer f33 b33
+xfer f36 b36
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + f2 6
+knit + f3 6
+knit + b4 6
+knit + b5 6
+knit + f6 6
+knit + f7 6
+knit + f8 6
+knit + f9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + f16 6
+knit + f17 6
+knit + f18 6
+knit + b19 6
+knit + f20 6
+knit + b21 6
+knit + b22 6
+knit + b23 6
+knit + f24 6
+knit + f25 6
+knit + b26 6
+knit + f27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + f31 6
+knit + f32 6
+knit + b33 6
+knit + f34 6
+knit + b35 6
+knit + b36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f1 b1
+xfer f7 b7
+xfer b10 f10
+xfer f15 b15
+xfer f16 b16
+xfer b19 f19
+xfer f20 b20
+xfer b21 f21
+xfer b23 f23
+xfer b26 f26
+xfer f27 b27
+xfer f28 b28
+xfer f31 b31
+xfer b33 f33
+xfer f37 b37
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - f38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - b31 6
+knit - b30 6
+knit - f29 6
+knit - b28 6
+knit - b27 6
+knit - f26 6
+knit - f25 6
+knit - f24 6
+knit - f23 6
+knit - b22 6
+knit - f21 6
+knit - b20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - b15 6
+knit - f14 6
+knit - f13 6
+knit - f12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - f8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - f3 6
+knit - f2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b5 f5
+xfer f10 b10
+xfer f13 b13
+xfer f14 b14
+xfer b15 f15
+xfer f18 b18
+xfer f19 b19
+xfer b20 f20
+xfer f25 b25
+xfer f29 b29
+xfer f32 b32
+xfer f33 b33
+xfer f34 b34
+xfer b35 f35
+xfer f38 b38
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + f3 6
+knit + b4 6
+knit + f5 6
+knit + f6 6
+knit + b7 6
+knit + f8 6
+knit + f9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + b13 6
+knit + b14 6
+knit + f15 6
+knit + b16 6
+knit + f17 6
+knit + b18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + b22 6
+knit + f23 6
+knit + f24 6
+knit + b25 6
+knit + f26 6
+knit + b27 6
+knit + b28 6
+knit + b29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + b33 6
+knit + b34 6
+knit + f35 6
+knit + b36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f2 b2
+xfer f3 b3
+xfer f5 b5
+xfer f8 b8
+xfer f11 b11
+xfer b13 f13
+xfer b14 f14
+xfer f15 b15
+xfer b16 f16
+xfer b19 f19
+xfer b22 f22
+xfer f24 b24
+xfer f26 b26
+xfer b29 f29
+xfer b32 f32
+xfer b33 f33
+xfer f35 b35
+xfer b36 f36
+xfer b37 f37
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - b38 6
+knit - f37 6
+knit - f36 6
+knit - b35 6
+knit - b34 6
+knit - f33 6
+knit - f32 6
+knit - b31 6
+knit - b30 6
+knit - f29 6
+knit - b28 6
+knit - b27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - f23 6
+knit - f22 6
+knit - f21 6
+knit - f20 6
+knit - f19 6
+knit - b18 6
+knit - f17 6
+knit - f16 6
+knit - b15 6
+knit - f14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - b8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer b3 f3
+xfer b5 f5
+xfer f6 b6
+xfer b7 f7
+xfer f9 b9
+xfer f14 b14
+xfer b18 f18
+xfer f20 b20
+xfer f21 b21
+xfer b24 f24
+xfer b25 f25
+xfer b26 f26
+xfer b27 f27
+xfer f29 b29
+xfer b31 f31
+xfer b35 f35
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + f2 6
+knit + f3 6
+knit + b4 6
+knit + f5 6
+knit + b6 6
+knit + f7 6
+knit + b8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + f12 6
+knit + f13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + f17 6
+knit + f18 6
+knit + f19 6
+knit + b20 6
+knit + b21 6
+knit + f22 6
+knit + f23 6
+knit + f24 6
+knit + f25 6
+knit + f26 6
+knit + f27 6
+knit + b28 6
+knit + b29 6
+knit + b30 6
+knit + f31 6
+knit + f32 6
+knit + f33 6
+knit + b34 6
+knit + f35 6
+knit + f36 6
+knit + f37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b6 f6
+xfer f7 b7
+xfer b8 f8
+xfer b11 f11
+xfer b14 f14
+xfer f16 b16
+xfer b20 f20
+xfer f22 b22
+xfer f23 b23
+xfer f25 b25
+xfer b29 f29
+xfer b30 f30
+xfer f32 b32
+xfer f35 b35
+xfer f36 b36
+xfer b38 f38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - f37 6
+knit - b36 6
+knit - b35 6
+knit - b34 6
+knit - f33 6
+knit - b32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - b28 6
+knit - f27 6
+knit - f26 6
+knit - b25 6
+knit - f24 6
+knit - b23 6
+knit - b22 6
+knit - b21 6
+knit - f20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - b15 6
+knit - f14 6
+knit - f13 6
+knit - f12 6
+knit - f11 6
+knit - b10 6
+knit - b9 6
+knit - f8 6
+knit - b7 6
+knit - f6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer f2 b2
+xfer b4 f4
+xfer f5 b5
+xfer f12 b12
+xfer f14 b14
+xfer b16 f16
+xfer f17 b17
+xfer f18 b18
+xfer f20 b20
+xfer b25 f25
+xfer f26 b26
+xfer f27 b27
+xfer b28 f28
+xfer f30 b30
+xfer f31 b31
+xfer b32 f32
+xfer f33 b33
+xfer b35 f35
+xfer b36 f36
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + b2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + f6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + f11 6
+knit + b12 6
+knit + f13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + b17 6
+knit + b18 6
+knit + f19 6
+knit + b20 6
+knit + b21 6
+knit + b22 6
+knit + b23 6
+knit + f24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + b33 6
+knit + b34 6
+knit + f35 6
+knit + f36 6
+knit + f37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b2 f2
+xfer f3 b3
+xfer f4 b4
+xfer f6 b6
+xfer f8 b8
+xfer f11 b11
+xfer b12 f12
+xfer b15 f15
+xfer b17 f17
+xfer f19 b19
+xfer b20 f20
+xfer b21 f21
+xfer b23 f23
+xfer f24 b24
+xfer f25 b25
+xfer f28 b28
+xfer f29 b29
+xfer b30 f30
+xfer f32 b32
+xfer b33 f33
+xfer b34 f34
+xfer f37 b37
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - b38 6
+knit - b37 6
+knit - f36 6
+knit - f35 6
+knit - f34 6
+knit - f33 6
+knit - b32 6
+knit - b31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - b27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - f23 6
+knit - b22 6
+knit - f21 6
+knit - f20 6
+knit - b19 6
+knit - b18 6
+knit - f17 6
+knit - f16 6
+knit - f15 6
+knit - b14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - b9 6
+knit - b8 6
+knit - b7 6
+knit - b6 6
+knit - b5 6
+knit - b4 6
+knit - b3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer b5 f5
+xfer b6 f6
+xfer b7 f7
+xfer b8 f8
+xfer b10 f10
+xfer f12 b12
+xfer f13 b13
+xfer b14 f14
+xfer f15 b15
+xfer f16 b16
+xfer f17 b17
+xfer f20 b20
+xfer f21 b21
+xfer b22 f22
+xfer b24 f24
+xfer b25 f25
+xfer b26 f26
+xfer b27 f27
+xfer b28 f28
+xfer b29 f29
+xfer b31 f31
+xfer b32 f32
+xfer f34 b34
+xfer f36 b36
+xfer b37 f37
+xfer b38 f38
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + b3 6
+knit + b4 6
+knit + f5 6
+knit + f6 6
+knit + f7 6
+knit + f8 6
+knit + b9 6
+knit + f10 6
+knit + b11 6
+knit + b12 6
+knit + b13 6
+knit + f14 6
+knit + b15 6
+knit + b16 6
+knit + b17 6
+knit + b18 6
+knit + b19 6
+knit + b20 6
+knit + b21 6
+knit + f22 6
+knit + f23 6
+knit + f24 6
+knit + f25 6
+knit + f26 6
+knit + f27 6
+knit + f28 6
+knit + f29 6
+knit + f30 6
+knit + f31 6
+knit + f32 6
+knit + f33 6
+knit + b34 6
+knit + f35 6
+knit + b36 6
+knit + f37 6
+knit + f38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b1 f1
+xfer f2 b2
+xfer b4 f4
+xfer f6 b6
+xfer b11 f11
+xfer f14 b14
+xfer b15 f15
+xfer b16 f16
+xfer b17 f17
+xfer b18 f18
+xfer b19 f19
+xfer b21 f21
+xfer f23 b23
+xfer f26 b26
+xfer f28 b28
+xfer f29 b29
+xfer f31 b31
+xfer f32 b32
+xfer f33 b33
+xfer b34 f34
+xfer f35 b35
+xfer b36 f36
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - f38 6
+knit - f37 6
+knit - f36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - b32 6
+knit - b31 6
+knit - f30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - b26 6
+knit - f25 6
+knit - f24 6
+knit - b23 6
+knit - f22 6
+knit - f21 6
+knit - b20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - f16 6
+knit - f15 6
+knit - b14 6
+knit - b13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - b9 6
+knit - f8 6
+knit - f7 6
+knit - b6 6
+knit - f5 6
+knit - f4 6
+knit - b3 6
+knit - b2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer f7 b7
+xfer f10 b10
+xfer f11 b11
+xfer b13 f13
+xfer b14 f14
+xfer f15 b15
+xfer f16 b16
+xfer f17 b17
+xfer f19 b19
+xfer b20 f20
+xfer f21 b21
+xfer b26 f26
+xfer f27 b27
+xfer b29 f29
+xfer b32 f32
+xfer b33 f33
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + b2 6
+knit + b3 6
+knit + f4 6
+knit + f5 6
+knit + b6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + b10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + b15 6
+knit + b16 6
+knit + b17 6
+knit + f18 6
+knit + b19 6
+knit + f20 6
+knit + b21 6
+knit + f22 6
+knit + b23 6
+knit + f24 6
+knit + f25 6
+knit + f26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + f30 6
+knit + b31 6
+knit + f32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + f36 6
+knit + f37 6
+knit + f38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b1 f1
+xfer b3 f3
+xfer f5 b5
+xfer b9 f9
+xfer b10 f10
+xfer f13 b13
+xfer b16 f16
+xfer f18 b18
+xfer b19 f19
+xfer f20 b20
+xfer f24 b24
+xfer f26 b26
+xfer b27 f27
+xfer b28 f28
+xfer b31 f31
+xfer f33 b33
+xfer b35 f35
+xfer f36 b36
+xfer f37 b37
+xfer f38 b38
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - b38 6
+knit - b37 6
+knit - b36 6
+knit - f35 6
+knit - f34 6
+knit - b33 6
+knit - f32 6
+knit - f31 6
+knit - f30 6
+knit - f29 6
+knit - f28 6
+knit - f27 6
+knit - b26 6
+knit - f25 6
+knit - b24 6
+knit - b23 6
+knit - f22 6
+knit - b21 6
+knit - b20 6
+knit - f19 6
+knit - b18 6
+knit - b17 6
+knit - f16 6
+knit - b15 6
+knit - f14 6
+knit - b13 6
+knit - b12 6
+knit - b11 6
+knit - f10 6
+knit - f9 6
+knit - f8 6
+knit - b7 6
+knit - b6 6
+knit - b5 6
+knit - f4 6
+knit - f3 6
+knit - b2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer b2 f2
+xfer f10 b10
+xfer b11 f11
+xfer b12 f12
+xfer f14 b14
+xfer b17 f17
+xfer b18 f18
+xfer b20 f20
+xfer f22 b22
+xfer b26 f26
+xfer f27 b27
+xfer f28 b28
+xfer f29 b29
+xfer f31 b31
+xfer f32 b32
+xfer b33 f33
+xfer f34 b34
+xfer f35 b35
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + f2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + b7 6
+knit + f8 6
+knit + f9 6
+knit + b10 6
+knit + f11 6
+knit + f12 6
+knit + b13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + f17 6
+knit + f18 6
+knit + f19 6
+knit + f20 6
+knit + b21 6
+knit + b22 6
+knit + b23 6
+knit + b24 6
+knit + f25 6
+knit + f26 6
+knit + b27 6
+knit + b28 6
+knit + b29 6
+knit + f30 6
+knit + b31 6
+knit + b32 6
+knit + f33 6
+knit + b34 6
+knit + b35 6
+knit + b36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer b6 f6
+xfer b7 f7
+xfer f8 b8
+xfer f9 b9
+xfer b10 f10
+xfer f11 b11
+xfer b14 f14
+xfer f17 b17
+xfer f19 b19
+xfer f20 b20
+xfer b22 f22
+xfer b23 f23
+xfer b24 f24
+xfer f25 b25
+xfer f26 b26
+xfer b29 f29
+xfer b34 f34
+xfer b36 f36
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - b38 6
+knit - b37 6
+knit - f36 6
+knit - b35 6
+knit - f34 6
+knit - f33 6
+knit - b32 6
+knit - b31 6
+knit - f30 6
+knit - f29 6
+knit - b28 6
+knit - b27 6
+knit - b26 6
+knit - b25 6
+knit - f24 6
+knit - f23 6
+knit - f22 6
+knit - b21 6
+knit - b20 6
+knit - b19 6
+knit - f18 6
+knit - b17 6
+knit - f16 6
+knit - b15 6
+knit - f14 6
+knit - b13 6
+knit - f12 6
+knit - b11 6
+knit - f10 6
+knit - b9 6
+knit - b8 6
+knit - f7 6
+knit - f6 6
+knit - b5 6
+knit - f4 6
+knit - f3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f3 b3
+xfer f4 b4
+xfer b5 f5
+xfer f6 b6
+xfer b8 f8
+xfer b9 f9
+xfer f10 b10
+xfer f12 b12
+xfer b13 f13
+xfer b15 f15
+xfer b17 f17
+xfer f23 b23
+xfer f24 b24
+xfer b25 f25
+xfer b26 f26
+xfer b28 f28
+xfer f30 b30
+xfer b32 f32
+xfer f34 b34
+xfer b35 f35
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + f1 6
+knit + f2 6
+knit + b3 6
+knit + b4 6
+knit + f5 6
+knit + b6 6
+knit + f7 6
+knit + f8 6
+knit + f9 6
+knit + b10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + f16 6
+knit + f17 6
+knit + f18 6
+knit + b19 6
+knit + b20 6
+knit + b21 6
+knit + f22 6
+knit + b23 6
+knit + b24 6
+knit + f25 6
+knit + f26 6
+knit + b27 6
+knit + f28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + f33 6
+knit + b34 6
+knit + f35 6
+knit + f36 6
+knit + b37 6
+knit + b38 6
+knit + b39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer f5 b5
+xfer b10 f10
+xfer b11 f11
+xfer f13 b13
+xfer f16 b16
+xfer f18 b18
+xfer b20 f20
+xfer f26 b26
+xfer f29 b29
+xfer b30 f30
+xfer f32 b32
+xfer f33 b33
+xfer b34 f34
+xfer f35 b35
+xfer f36 b36
+xfer b37 f37
+xfer b38 f38
+xfer b39 f39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - f38 6
+knit - f37 6
+knit - b36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - b32 6
+knit - b31 6
+knit - f30 6
+knit - b29 6
+knit - f28 6
+knit - b27 6
+knit - b26 6
+knit - f25 6
+knit - b24 6
+knit - b23 6
+knit - f22 6
+knit - b21 6
+knit - f20 6
+knit - b19 6
+knit - b18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - f14 6
+knit - b13 6
+knit - b12 6
+knit - f11 6
+knit - f10 6
+knit - f9 6
+knit - f8 6
+knit - f7 6
+knit - b6 6
+knit - b5 6
+knit - b4 6
+knit - b3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer b6 f6
+xfer f7 b7
+xfer f11 b11
+xfer b13 f13
+xfer b16 f16
+xfer f17 b17
+xfer b18 f18
+xfer b21 f21
+xfer b24 f24
+xfer f25 b25
+xfer b27 f27
+xfer f28 b28
+xfer b29 f29
+xfer f30 b30
+xfer b35 f35
+xfer b36 f36
+xfer f37 b37
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + f2 6
+knit + b3 6
+knit + b4 6
+knit + b5 6
+knit + f6 6
+knit + b7 6
+knit + f8 6
+knit + f9 6
+knit + f10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + f16 6
+knit + b17 6
+knit + f18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + f22 6
+knit + b23 6
+knit + f24 6
+knit + b25 6
+knit + b26 6
+knit + f27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + b33 6
+knit + f34 6
+knit + f35 6
+knit + f36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f2 b2
+xfer b4 f4
+xfer b7 f7
+xfer f10 b10
+xfer b12 f12
+xfer f13 b13
+xfer f14 b14
+xfer f16 b16
+xfer f18 b18
+xfer f22 b22
+xfer f24 b24
+xfer b26 f26
+xfer f27 b27
+xfer b28 f28
+xfer f29 b29
+xfer f35 b35
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - b38 6
+knit - b37 6
+knit - f36 6
+knit - b35 6
+knit - f34 6
+knit - b33 6
+knit - b32 6
+knit - b31 6
+knit - b30 6
+knit - b29 6
+knit - f28 6
+knit - b27 6
+knit - f26 6
+knit - b25 6
+knit - b24 6
+knit - b23 6
+knit - b22 6
+knit - f21 6
+knit - f20 6
+knit - b19 6
+knit - b18 6
+knit - b17 6
+knit - b16 6
+knit - f15 6
+knit - b14 6
+knit - b13 6
+knit - f12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - f8 6
+knit - f7 6
+knit - f6 6
+knit - b5 6
+knit - f4 6
+knit - b3 6
+knit - b2 6
+knit - b1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b2 f2
+xfer b3 f3
+xfer f4 b4
+xfer f8 b8
+xfer f12 b12
+xfer b13 f13
+xfer b14 f14
+xfer f15 b15
+xfer b19 f19
+xfer f21 b21
+xfer b22 f22
+xfer b24 f24
+xfer b27 f27
+xfer f28 b28
+xfer b30 f30
+xfer b31 f31
+xfer b32 f32
+xfer b33 f33
+xfer b35 f35
+xfer f36 b36
+xfer b38 f38
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + f3 6
+knit + b4 6
+knit + b5 6
+knit + f6 6
+knit + f7 6
+knit + b8 6
+knit + f9 6
+knit + b10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + b15 6
+knit + b16 6
+knit + b17 6
+knit + b18 6
+knit + f19 6
+knit + f20 6
+knit + b21 6
+knit + f22 6
+knit + b23 6
+knit + f24 6
+knit + b25 6
+knit + f26 6
+knit + f27 6
+knit + b28 6
+knit + b29 6
+knit + f30 6
+knit + f31 6
+knit + f32 6
+knit + f33 6
+knit + f34 6
+knit + f35 6
+knit + b36 6
+knit + b37 6
+knit + f38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b1 f1
+xfer f2 b2
+xfer f3 b3
+xfer b5 f5
+xfer b8 f8
+xfer b10 f10
+xfer b12 f12
+xfer f14 b14
+xfer b17 f17
+xfer b18 f18
+xfer f20 b20
+xfer b21 f21
+xfer f22 b22
+xfer b25 f25
+xfer f27 b27
+xfer b29 f29
+xfer f30 b30
+xfer f33 b33
+xfer f34 b34
+xfer f38 b38
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - b39 6
+knit - b38 6
+knit - b37 6
+knit - b36 6
+knit - f35 6
+knit - b34 6
+knit - b33 6
+knit - f32 6
+knit - f31 6
+knit - b30 6
+knit - f29 6
+knit - b28 6
+knit - b27 6
+knit - f26 6
+knit - f25 6
+knit - f24 6
+knit - b23 6
+knit - b22 6
+knit - f21 6
+knit - b20 6
+knit - f19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - b15 6
+knit - b14 6
+knit - f13 6
+knit - f12 6
+knit - b11 6
+knit - f10 6
+knit - f9 6
+knit - f8 6
+knit - f7 6
+knit - f6 6
+knit - f5 6
+knit - b4 6
+knit - b3 6
+knit - b2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer b2 f2
+xfer f6 b6
+xfer f9 b9
+xfer b11 f11
+xfer f12 b12
+xfer f13 b13
+xfer b14 f14
+xfer b15 f15
+xfer b16 f16
+xfer f19 b19
+xfer b20 f20
+xfer b22 f22
+xfer b23 f23
+xfer f24 b24
+xfer f26 b26
+xfer b27 f27
+xfer f31 b31
+xfer b33 f33
+xfer b34 f34
+xfer f35 b35
+xfer b36 f36
+xfer b39 f39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + b3 6
+knit + b4 6
+knit + f5 6
+knit + b6 6
+knit + f7 6
+knit + f8 6
+knit + b9 6
+knit + f10 6
+knit + f11 6
+knit + b12 6
+knit + b13 6
+knit + f14 6
+knit + f15 6
+knit + f16 6
+knit + f17 6
+knit + f18 6
+knit + b19 6
+knit + f20 6
+knit + f21 6
+knit + f22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + f27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + f32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + f36 6
+knit + b37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b3 f3
+xfer b6 f6
+xfer f7 b7
+xfer f10 b10
+xfer b13 f13
+xfer f14 b14
+xfer f16 b16
+xfer f17 b17
+xfer f18 b18
+xfer f20 b20
+xfer f21 b21
+xfer f22 b22
+xfer f23 b23
+xfer f25 b25
+xfer f29 b29
+xfer b31 f31
+xfer f36 b36
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - f39 6
+knit - b38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - f34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - b30 6
+knit - b29 6
+knit - b28 6
+knit - f27 6
+knit - b26 6
+knit - b25 6
+knit - b24 6
+knit - b23 6
+knit - b22 6
+knit - b21 6
+knit - b20 6
+knit - b19 6
+knit - b18 6
+knit - b17 6
+knit - b16 6
+knit - f15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - f11 6
+knit - b10 6
+knit - b9 6
+knit - f8 6
+knit - b7 6
+knit - f6 6
+knit - f5 6
+knit - b4 6
+knit - f3 6
+knit - f2 6
+knit - b1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f2 b2
+xfer f3 b3
+xfer b4 f4
+xfer f5 b5
+xfer f6 b6
+xfer f8 b8
+xfer b9 f9
+xfer f11 b11
+xfer f15 b15
+xfer b16 f16
+xfer b22 f22
+xfer b28 f28
+xfer f33 b33
+xfer f34 b34
+xfer b35 f35
+xfer b36 f36
+xfer b37 f37
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 6
+knit + b1 6
+knit + b2 6
+knit + b3 6
+knit + f4 6
+knit + b5 6
+knit + b6 6
+knit + b7 6
+knit + b8 6
+knit + f9 6
+knit + b10 6
+knit + b11 6
+knit + b12 6
+knit + f13 6
+knit + b14 6
+knit + b15 6
+knit + f16 6
+knit + b17 6
+knit + b18 6
+knit + b19 6
+knit + b20 6
+knit + b21 6
+knit + f22 6
+knit + b23 6
+knit + b24 6
+knit + b25 6
+knit + b26 6
+knit + f27 6
+knit + f28 6
+knit + b29 6
+knit + b30 6
+knit + f31 6
+knit + f32 6
+knit + b33 6
+knit + b34 6
+knit + f35 6
+knit + f36 6
+knit + f37 6
+knit + b38 6
+knit + f39 6
+knit + f40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b1 f1
+xfer b2 f2
+xfer f4 b4
+xfer b6 f6
+xfer b7 f7
+xfer b8 f8
+xfer f13 b13
+xfer b15 f15
+xfer f16 b16
+xfer b17 f17
+xfer b18 f18
+xfer b20 f20
+xfer f22 b22
+xfer b23 f23
+xfer b24 f24
+xfer b25 f25
+xfer b26 f26
+xfer b29 f29
+xfer b33 f33
+xfer f36 b36
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 6
+knit - f39 6
+knit - b38 6
+knit - f37 6
+knit - b36 6
+knit - f35 6
+knit - b34 6
+knit - f33 6
+knit - f32 6
+knit - f31 6
+knit - b30 6
+knit - f29 6
+knit - f28 6
+knit - f27 6
+knit - f26 6
+knit - f25 6
+knit - f24 6
+knit - f23 6
+knit - b22 6
+knit - b21 6
+knit - f20 6
+knit - b19 6
+knit - f18 6
+knit - f17 6
+knit - b16 6
+knit - f15 6
+knit - b14 6
+knit - b13 6
+knit - b12 6
+knit - b11 6
+knit - b10 6
+knit - f9 6
+knit - f8 6
+knit - f7 6
+knit - f6 6
+knit - b5 6
+knit - b4 6
+knit - b3 6
+knit - f2 6
+knit - f1 6
+knit - f0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer b3 f3
+xfer b4 f4
+xfer f7 b7
+xfer f9 b9
+xfer b10 f10
+xfer b11 f11
+xfer b13 f13
+xfer b14 f14
+xfer b19 f19
+xfer b21 f21
+xfer b22 f22
+xfer f24 b24
+xfer f26 b26
+xfer f27 b27
+xfer f28 b28
+xfer f31 b31
+xfer f32 b32
+xfer b34 f34
+xfer f35 b35
+xfer b36 f36
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 6
+knit + b1 6
+knit + f2 6
+knit + f3 6
+knit + f4 6
+knit + b5 6
+knit + f6 6
+knit + b7 6
+knit + f8 6
+knit + b9 6
+knit + f10 6
+knit + f11 6
+knit + b12 6
+knit + f13 6
+knit + f14 6
+knit + f15 6
+knit + b16 6
+knit + f17 6
+knit + f18 6
+knit + f19 6
+knit + f20 6
+knit + f21 6
+knit + f22 6
+knit + f23 6
+knit + b24 6
+knit + f25 6
+knit + b26 6
+knit + b27 6
+knit + b28 6
+knit + f29 6
+knit + b30 6
+knit + b31 6
+knit + b32 6
+knit + f33 6
+knit + f34 6
+knit + b35 6
+knit + f36 6
+knit + f37 6
+knit + b38 6
+knit + f39 6
+knit + b40 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b1 f1
+xfer f3 b3
+xfer f10 b10
+xfer f14 b14
+xfer b16 f16
+xfer f17 b17
+xfer f18 b18
+xfer f19 b19
+xfer f20 b20
+xfer f21 b21
+xfer f23 b23
+xfer b26 f26
+xfer b28 f28
+xfer b32 f32
+xfer f33 b33
+xfer f34 b34
+xfer f36 b36
+xfer f37 b37
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 6
+knit - b39 6
+knit - b38 6
+knit - b37 6
+knit - b36 6
+knit - b35 6
+knit - b34 6
+knit - b33 6
+knit - f32 6
+knit - b31 6
+knit - b30 6
+knit - f29 6
+knit - f28 6
+knit - b27 6
+knit - f26 6
+knit - f25 6
+knit - b24 6
+knit - b23 6
+knit - f22 6
+knit - b21 6
+knit - b20 6
+knit - b19 6
+knit - b18 6
+knit - b17 6
+knit - f16 6
+knit - f15 6
+knit - b14 6
+knit - f13 6
+knit - b12 6
+knit - f11 6
+knit - b10 6
+knit - b9 6
+knit - f8 6
+knit - b7 6
+knit - f6 6
+knit - b5 6
+knit - f4 6
+knit - b3 6
+knit - f2 6
+knit - f1 6
+knit - b0 6
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b3 f3
+xfer b5 f5
+xfer f6 b6
+xfer b14 f14
+xfer f15 b15
+xfer f16 b16
+xfer b18 f18
+xfer b20 f20
+xfer f22 b22
+xfer b23 f23
+xfer f25 b25
+xfer b27 f27
+xfer b30 f30
+xfer b31 f31
+xfer f32 b32
+xfer b34 f34
+xfer b36 f36
+xfer b37 f37
+x-speed-number 100
+x-roller-advance 0
+x-roller-advance 0
+xfer f0 b0
+xfer b6 f6
+xfer f8 b8
+xfer b9 f9
+xfer b10 f10
+xfer f13 b13
+xfer b15 f15
+xfer b21 f21
+xfer b22 f22
+xfer b24 f24
+xfer b25 f25
+xfer f27 b27
+xfer f31 b31
+xfer b32 f32
+xfer b33 f33
+xfer b35 f35
+xfer f37 b37
+xfer b38 f38
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 450
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + f2 2
+knit + f3 2
+knit + f4 2
+knit + f5 2
+knit + f6 2
+knit + b7 2
+knit + b8 2
+knit + f9 2
+knit + f10 2
+knit + f11 2
+knit + b12 2
+knit + b13 2
+knit + f14 2
+knit + f15 2
+knit + b16 2
+knit + b17 2
+knit + f18 2
+knit + b19 2
+knit + f20 2
+knit + f21 2
+knit + f22 2
+knit + f23 2
+knit + f24 2
+knit + f25 2
+knit + f26 2
+knit + b27 2
+knit + f28 2
+knit + f29 2
+knit + f30 2
+knit + b31 2
+knit + f32 2
+knit + f33 2
+knit + f34 2
+knit + f35 2
+knit + f36 2
+knit + b37 2
+knit + f38 2
+knit + f39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer f2 b2
+xfer f3 b3
+xfer f5 b5
+xfer f6 b6
+xfer f10 b10
+xfer f11 b11
+xfer b12 f12
+xfer b16 f16
+xfer b17 f17
+xfer f18 b18
+xfer f20 b20
+xfer f21 b21
+xfer f22 b22
+xfer f24 b24
+xfer f26 b26
+xfer f28 b28
+xfer f29 b29
+xfer b31 f31
+xfer b37 f37
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - f39 2
+knit - f38 2
+knit - f37 2
+knit - f36 2
+knit - f35 2
+knit - f34 2
+knit - f33 2
+knit - f32 2
+knit - f31 2
+knit - f30 2
+knit - b29 2
+knit - b28 2
+knit - b27 2
+knit - b26 2
+knit - f25 2
+knit - b24 2
+knit - f23 2
+knit - b22 2
+knit - b21 2
+knit - b20 2
+knit - b19 2
+knit - b18 2
+knit - f17 2
+knit - f16 2
+knit - f15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - b7 2
+knit - b6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - b2 2
+knit - b1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b2 f2
+xfer b5 f5
+xfer b6 f6
+xfer b7 f7
+xfer f9 b9
+xfer b10 f10
+xfer f14 b14
+xfer f15 b15
+xfer b18 f18
+xfer f32 b32
+xfer f34 b34
+xfer f35 b35
+xfer f36 b36
+xfer f39 b39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + b1 2
+knit + f2 2
+knit + b3 2
+knit + f4 2
+knit + f5 2
+knit + f6 2
+knit + f7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + b11 2
+knit + f12 2
+knit + b13 2
+knit + b14 2
+knit + b15 2
+knit + f16 2
+knit + f17 2
+knit + f18 2
+knit + b19 2
+knit + b20 2
+knit + b21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + b27 2
+knit + b28 2
+knit + b29 2
+knit + f30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + b35 2
+knit + b36 2
+knit + f37 2
+knit + f38 2
+knit + b39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f4 b4
+xfer f6 b6
+xfer b9 f9
+xfer f10 b10
+xfer b11 f11
+xfer b13 f13
+xfer b15 f15
+xfer f16 b16
+xfer f17 b17
+xfer f18 b18
+xfer b19 f19
+xfer b21 f21
+xfer b24 f24
+xfer f25 b25
+xfer b26 f26
+xfer b27 f27
+xfer b29 f29
+xfer f31 b31
+xfer b32 f32
+xfer b34 f34
+xfer f38 b38
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - f39 2
+knit - b38 2
+knit - f37 2
+knit - b36 2
+knit - b35 2
+knit - f34 2
+knit - f33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - f29 2
+knit - b28 2
+knit - f27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - f23 2
+knit - b22 2
+knit - f21 2
+knit - b20 2
+knit - f19 2
+knit - b18 2
+knit - b17 2
+knit - b16 2
+knit - f15 2
+knit - b14 2
+knit - f13 2
+knit - f12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - f7 2
+knit - b6 2
+knit - f5 2
+knit - b4 2
+knit - b3 2
+knit - f2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f1 b1
+xfer b4 f4
+xfer f5 b5
+xfer b6 f6
+xfer f7 b7
+xfer f9 b9
+xfer b10 f10
+xfer f11 b11
+xfer f12 b12
+xfer f15 b15
+xfer f19 b19
+xfer f23 b23
+xfer f26 b26
+xfer f33 b33
+xfer b36 f36
+xfer f37 b37
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + b1 2
+knit + f2 2
+knit + b3 2
+knit + f4 2
+knit + b5 2
+knit + f6 2
+knit + b7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + b11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + b15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + b19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + b23 2
+knit + f24 2
+knit + b25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + f30 2
+knit + b31 2
+knit + f32 2
+knit + b33 2
+knit + f34 2
+knit + b35 2
+knit + f36 2
+knit + b37 2
+knit + b38 2
+knit + f39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f2 b2
+xfer f6 b6
+xfer b7 f7
+xfer b9 f9
+xfer f10 b10
+xfer b11 f11
+xfer b14 f14
+xfer b15 f15
+xfer b16 f16
+xfer b17 f17
+xfer b22 f22
+xfer f24 b24
+xfer b25 f25
+xfer b26 f26
+xfer b28 f28
+xfer f30 b30
+xfer f32 b32
+xfer b35 f35
+xfer f36 b36
+xfer b37 f37
+xfer b38 f38
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - f39 2
+knit - f38 2
+knit - f37 2
+knit - b36 2
+knit - f35 2
+knit - f34 2
+knit - b33 2
+knit - b32 2
+knit - b31 2
+knit - b30 2
+knit - f29 2
+knit - f28 2
+knit - f27 2
+knit - f26 2
+knit - f25 2
+knit - b24 2
+knit - b23 2
+knit - f22 2
+knit - f21 2
+knit - b20 2
+knit - b19 2
+knit - b18 2
+knit - f17 2
+knit - f16 2
+knit - f15 2
+knit - f14 2
+knit - f13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - f7 2
+knit - b6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - b2 2
+knit - f1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer f1 b1
+xfer f7 b7
+xfer f9 b9
+xfer f11 b11
+xfer f14 b14
+xfer f15 b15
+xfer f17 b17
+xfer b18 f18
+xfer b23 f23
+xfer f25 b25
+xfer f27 b27
+xfer f28 b28
+xfer f29 b29
+xfer b30 f30
+xfer b33 f33
+xfer f34 b34
+xfer b36 f36
+xfer f39 b39
+xfer b40 f40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + f0 2
+knit + b1 2
+knit + b2 2
+knit + b3 2
+knit + f4 2
+knit + b5 2
+knit + b6 2
+knit + b7 2
+knit + b8 2
+knit + b9 2
+knit + b10 2
+knit + b11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + b15 2
+knit + f16 2
+knit + b17 2
+knit + f18 2
+knit + b19 2
+knit + b20 2
+knit + f21 2
+knit + f22 2
+knit + f23 2
+knit + b24 2
+knit + b25 2
+knit + f26 2
+knit + b27 2
+knit + b28 2
+knit + b29 2
+knit + f30 2
+knit + b31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + f36 2
+knit + f37 2
+knit + f38 2
+knit + b39 2
+knit + f40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b3 f3
+xfer b6 f6
+xfer b8 f8
+xfer b9 f9
+xfer b11 f11
+xfer f13 b13
+xfer b14 f14
+xfer f18 b18
+xfer b19 f19
+xfer f23 b23
+xfer b24 f24
+xfer b25 f25
+xfer b27 f27
+xfer b29 f29
+xfer b32 f32
+xfer b39 f39
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - f40 2
+knit - f39 2
+knit - f38 2
+knit - f37 2
+knit - f36 2
+knit - f35 2
+knit - b34 2
+knit - f33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - f29 2
+knit - b28 2
+knit - f27 2
+knit - f26 2
+knit - f25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - f21 2
+knit - b20 2
+knit - f19 2
+knit - b18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - b12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - f3 2
+knit - b2 2
+knit - b1 2
+knit - b0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b1 f1
+xfer f3 b3
+xfer f8 b8
+xfer f9 b9
+xfer b10 f10
+xfer f11 b11
+xfer b13 f13
+xfer f14 b14
+xfer f16 b16
+xfer f19 b19
+xfer f22 b22
+xfer b23 f23
+xfer f24 b24
+xfer f25 b25
+xfer f27 b27
+xfer f29 b29
+xfer f30 b30
+xfer b31 f31
+xfer f32 b32
+xfer f36 b36
+xfer f37 b37
+xfer f39 b39
+xfer f40 b40
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + b3 2
+knit + f4 2
+knit + b5 2
+knit + f6 2
+knit + b7 2
+knit + b8 2
+knit + b9 2
+knit + f10 2
+knit + b11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + b15 2
+knit + b16 2
+knit + b17 2
+knit + b18 2
+knit + b19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + b25 2
+knit + f26 2
+knit + b27 2
+knit + b28 2
+knit + b29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + b37 2
+knit + f38 2
+knit + b39 2
+knit + b40 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer b0 f0
+xfer b2 f2
+xfer f4 b4
+xfer b7 f7
+xfer b9 f9
+xfer f10 b10
+xfer b11 f11
+xfer b12 f12
+xfer b15 f15
+xfer b16 f16
+xfer b19 f19
+xfer b24 f24
+xfer b27 f27
+xfer b28 f28
+xfer b29 f29
+xfer b30 f30
+xfer f31 b31
+xfer f33 b33
+xfer b34 f34
+xfer b36 f36
+xfer b37 f37
+xfer f38 b38
+x-speed-number 400
+x-roller-advance 400
+x-stitch-number 4
+knit - b40 2
+knit - b39 2
+knit - b38 2
+knit - f37 2
+knit - f36 2
+knit - f35 2
+knit - f34 2
+knit - b33 2
+knit - b32 2
+knit - b31 2
+knit - f30 2
+knit - f29 2
+knit - f28 2
+knit - f27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - f23 2
+knit - b22 2
+knit - f21 2
+knit - b20 2
+knit - f19 2
+knit - b18 2
+knit - b17 2
+knit - f16 2
+knit - f15 2
+knit - b14 2
+knit - f13 2
+knit - f12 2
+knit - f11 2
+knit - b10 2
+knit - f9 2
+knit - b8 2
+knit - f7 2
+knit - f6 2
+knit - b5 2
+knit - b4 2
+knit - b3 2
+knit - f2 2
+knit - f1 2
+knit - f0 2
+x-speed-number 100
+x-stitch-number 2
+x-roller-advance 0
+xfer f0 b0
+xfer b3 f3
+xfer b4 f4
+xfer b5 f5
+xfer f7 b7
+xfer b10 f10
+xfer f12 b12
+xfer f13 b13
+xfer b14 f14
+xfer f16 b16
+xfer b18 f18
+xfer f19 b19
+xfer b20 f20
+xfer b22 f22
+xfer b25 f25
+xfer f27 b27
+xfer b32 f32
+xfer b33 f33
+xfer f37 b37
+xfer b38 f38
+xfer b39 f39
+x-stitch-number 4
+x-speed-number 400
+rack 0
+x-roller-advance 300
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+knit + b0 2
+knit + f1 2
+knit + b2 2
+knit + f3 2
+knit + b4 2
+knit + f5 2
+knit + b6 2
+knit + f7 2
+knit + b8 2
+knit + f9 2
+knit + b10 2
+knit + f11 2
+knit + b12 2
+knit + f13 2
+knit + b14 2
+knit + f15 2
+knit + b16 2
+knit + f17 2
+knit + b18 2
+knit + f19 2
+knit + b20 2
+knit + f21 2
+knit + b22 2
+knit + f23 2
+knit + b24 2
+knit + f25 2
+knit + b26 2
+knit + f27 2
+knit + b28 2
+knit + f29 2
+knit + b30 2
+knit + f31 2
+knit + b32 2
+knit + f33 2
+knit + b34 2
+knit + f35 2
+knit + b36 2
+knit + f37 2
+knit + b38 2
+knit + f39 2
+knit + b40 2
+knit - f40 2
+knit - b39 2
+knit - f38 2
+knit - b37 2
+knit - f36 2
+knit - b35 2
+knit - f34 2
+knit - b33 2
+knit - f32 2
+knit - b31 2
+knit - f30 2
+knit - b29 2
+knit - f28 2
+knit - b27 2
+knit - f26 2
+knit - b25 2
+knit - f24 2
+knit - b23 2
+knit - f22 2
+knit - b21 2
+knit - f20 2
+knit - b19 2
+knit - f18 2
+knit - b17 2
+knit - f16 2
+knit - b15 2
+knit - f14 2
+knit - b13 2
+knit - f12 2
+knit - b11 2
+knit - f10 2
+knit - b9 2
+knit - f8 2
+knit - b7 2
+knit - f6 2
+knit - b5 2
+knit - f4 2
+knit - b3 2
+knit - f2 2
+knit - b1 2
+knit - f0 2
+out 6
+out 2
+drop f0
+drop f1
+drop f2
+drop f3
+drop f4
+drop f5
+drop f6
+drop f7
+drop f8
+drop f9
+drop f10
+drop f11
+drop f12
+drop f13
+drop f14
+drop f15
+drop f16
+drop f17
+drop f18
+drop f19
+drop f20
+drop f21
+drop f22
+drop f23
+drop f24
+drop f25
+drop f26
+drop f27
+drop f28
+drop f29
+drop f30
+drop f31
+drop f32
+drop f33
+drop f34
+drop f35
+drop f36
+drop f37
+drop f38
+drop f39
+drop f40
+drop b40
+drop b39
+drop b38
+drop b37
+drop b36
+drop b35
+drop b34
+drop b33
+drop b32
+drop b31
+drop b30
+drop b29
+drop b28
+drop b27
+drop b26
+drop b25
+drop b24
+drop b23
+drop b22
+drop b21
+drop b20
+drop b19
+drop b18
+drop b17
+drop b16
+drop b15
+drop b14
+drop b13
+drop b12
+drop b11
+drop b10
+drop b9
+drop b8
+drop b7
+drop b6
+drop b5
+drop b4
+drop b3
+drop b2
+drop b1
+drop b0
